@@ -1,13 +1,18 @@
 import praw
-reddit = praw.Reddit(client_id='gl9u8v7CW8bV7w', client_secret="7U-0BRdmb0GE46kZl2uR6i5YGqg",
-                     password='4701project', user_agent='4701project by 4701project',
-                     username='4701project')
+# reddit = praw.Reddit(client_id='gl9u8v7CW8bV7w', client_secret="7U-0BRdmb0GE46kZl2uR6i5YGqg",
+#                      password='4701project', user_agent='4701project by 4701project',
+#                      username='4701project')
 
-subreddit = reddit.subreddit('conservative')
+# subreddit = reddit.subreddit('conservative')
+# submissions = []
+# for submission in reddit.subreddit('politics').top('all', limit=2000):
+#     submissions.append(submission)
 
-print(subreddit.display_name)  # Output: redditdev
-print(subreddit.title)         # Output: reddit Development
-print(subreddit.description)   # Output: A subreddit for discussion of ..
+# print(len(submissions))
+
+# print(subreddit.display_name)  # Output: redditdev
+# print(subreddit.title)         # Output: reddit Development
+# print(subreddit.description)   # Output: A subreddit for discussion of ..
 
 # import requests
 # base_url = 'https://www.reddit.com/'
@@ -27,3 +32,16 @@ print(subreddit.description)   # Output: A subreddit for discussion of ..
 
 # if response.status_code == 200:
 #     print(response.json()['name'], response.json()['comment_karma'])
+from psaw import PushshiftAPI
+import datetime as dt
+
+api = PushshiftAPI()
+
+start_epoch=int(dt.datetime(2017, 1, 1).timestamp())
+
+results = list(api.search_submissions(after=start_epoch,
+                            subreddit='conservative',
+                            filter=['url','author', 'title', 'subreddit'],
+                            limit=2000))
+
+print(len(results))
