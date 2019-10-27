@@ -20,3 +20,5 @@ for subreddit in subreddits:
 	r = requests.get('https://api.pushshift.io/reddit/search/submission/?subreddit={}&sort=desc&sort_type=created_utc&after={}&before={}&size=1000'.format(subreddit, start, end, posts_per_subreddit))
 	for data in r.json()['data']:
 		posts[subreddit].append(data['title'])
+
+print(posts)
