@@ -32,16 +32,65 @@ import praw
 
 # if response.status_code == 200:
 #     print(response.json()['name'], response.json()['comment_karma'])
+def get_data(subs, leaning, num):
+    for subreddit in subs:
+        posts = []
+        comments = []
+        posts_res = list(api.search_submissions(after=start_epoch,
+                                    subreddit=subreddit,
+                                    filter=['url', 'title', 'score'],
+                                    limit=num))
+
+        for post in posts_res:
+            posts.append(post[-1])
+        comments_res = list(api.search_comments(after=start_epoch,
+                                    subreddit=subreddit,
+                                    filter=['body','score'],
+                                    limit=num))
+        for comment in comments_res:
+            comments.append(comment[-1])
+        subreddits.append((subreddit, {'leaning': leaning, 'posts': posts, 'comments': comments}))
+
+
 from psaw import PushshiftAPI
+import json
 import datetime as dt
 
 api = PushshiftAPI()
 
 start_epoch=int(dt.datetime(2017, 1, 1).timestamp())
 
-results = list(api.search_submissions(after=start_epoch,
-                            subreddit='conservative',
-                            filter=['url','author', 'title', 'subreddit'],
-                            limit=2000))
+left_subreddits = [
+'anarchocommunism',
+'antifascistsofreddit',
+'centerleftpolitics',
+'democrats',
+'democraticsocialism',
+'elizabethwarren',
+'greenparty',
+'progressive',
+'socialism',
+'toiletpaperusa'
+]
 
-print(len(results))
+right_subreddits = [
+'askaconservative',
+'conservative',
+'cringeanarchy',
+'republican',
+'shitpoliticssays',
+'the_donald',
+'prolife',
+'progun',
+'rightwinglgbt',
+'libertarian'
+]
+
+subreddits = []
+
+# get_data(left_subreddits, 'left', 10)
+# get_data(right_subreddits, 'right', 10)
+# get_data(['conservative'], 'right', 1)
+# print(subreddits)
+with open('data.txt', 'w') as outfile:
+    json.dump(subreddits, outfile)
