@@ -21,6 +21,7 @@ def spacy_tokenizer(data, remove_punct=True, remove_stopwords=True, lemmatize=Tr
 	return [(token.lemma_ if lemmatize else token.orth_) for token in nlp(data) if (not token.is_punct if remove_punct else True) and not token.is_space and (not token.is_stop if remove_stopwords else True)]
 
 def bag_of_words(data, ngram_range=(1,2), tokenizer=spacy_tokenizer):
+	# by default, CountVectorizer will convert word to lower case.
 	vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer)
 	result = vectorizer.fit_transform(data)
 	# print(vectorizer.vocabulary_)
