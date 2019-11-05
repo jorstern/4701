@@ -1,11 +1,17 @@
 import json
+from typing import List
+
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
-def load_data(file_path):
-	with open(file_path) as file:
-	    json_data = json.load(file)
+def load_data(file_paths: List[str]):
+	# load raw data from disks
+	json_data = []
+	for file_path in file_paths:
+		with open(file_path) as file:
+			json_data += json.load(file)
+
 	data = []
 	label = []
 	for subreddit in json_data:
@@ -32,7 +38,7 @@ def tfidf(data):
 	return transformer.fit_transform(data)
 
 nlp = spacy.load("en")
-data, label = load_data('data.txt')
+data, label = load_data(['data_left.txt', 'data_right.txt'])
 data = bag_of_words(data)
 data = tfidf(data)
 print(data.toarray().shape)
