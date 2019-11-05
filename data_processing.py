@@ -1,4 +1,5 @@
 import json
+import pickle
 from typing import List
 
 import spacy
@@ -41,4 +42,9 @@ nlp = spacy.load("en")
 data, label = load_data(['data_left.txt', 'data_right.txt'])
 data = bag_of_words(data)
 data = tfidf(data)
-print(data.toarray().shape)
+print(f"Preprocessed data has shape {data.get_shape()}")
+
+
+# write preprocessed data and labels to disk
+with open('data_preprocessed.pickle', 'wb') as out_file:
+	pickle.dump((data, label), out_file)
