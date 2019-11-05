@@ -1,0 +1,10 @@
+# Pycharm
+/.idea/
+
+# Outputs
+/data*.txt
+/data*.pickle
+
+/.venv/
+__pycache__/
+
