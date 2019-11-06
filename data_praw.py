@@ -1,4 +1,8 @@
+from subreddit_labels import LEFT_LEANING_SUBS, RIGHT_LEANING_SUBS
+
 import praw
+
+
 # reddit = praw.Reddit(client_id='gl9u8v7CW8bV7w', client_secret="7U-0BRdmb0GE46kZl2uR6i5YGqg",
 #                      password='4701project', user_agent='4701project by 4701project',
 #                      username='4701project')
@@ -60,37 +64,12 @@ api = PushshiftAPI()
 
 start_epoch=int(dt.datetime(2017, 1, 1).timestamp())
 
-left_subreddits = [
-'anarchocommunism',
-'antifascistsofreddit',
-'centerleftpolitics',
-'democrats',
-'democraticsocialism',
-'elizabethwarren',
-'greenparty',
-'progressive',
-'socialism',
-'toiletpaperusa'
-]
-
-right_subreddits = [
-'askaconservative',
-'conservative',
-'cringeanarchy',
-'republican',
-'shitpoliticssays',
-'the_donald',
-'prolife',
-'progun',
-'rightwinglgbt',
-'libertarian'
-]
+subreddits = []
+get_data(LEFT_LEANING_SUBS, 'left', 10)
+with open('data_left.txt', 'w') as outfile:
+    json.dump(subreddits, outfile)
 
 subreddits = []
-
-# get_data(left_subreddits, 'left', 10)
-# get_data(right_subreddits, 'right', 10)
-# get_data(['conservative'], 'right', 1)
-# print(subreddits)
-with open('data.txt', 'w') as outfile:
+get_data(RIGHT_LEANING_SUBS, 'right', 10)
+with open('data_right.txt', 'w') as outfile:
     json.dump(subreddits, outfile)
