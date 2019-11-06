@@ -32,7 +32,7 @@ def bag_of_words(data, ngram_range=(1,2), tokenizer=spacy_tokenizer):
 	vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer)
 	result = vectorizer.fit_transform(data)
 	# print(vectorizer.vocabulary_)
-	return result
+	return result, vectorizer.get_feature_names()
 
 def tfidf(data):
 	transformer = TfidfTransformer()
@@ -40,11 +40,16 @@ def tfidf(data):
 
 nlp = spacy.load("en")
 data, label = load_data(['data_left.txt', 'data_right.txt'])
-data = bag_of_words(data)
+data, feature_names = bag_of_words(data)
 data = tfidf(data)
 print(f"Preprocessed data has shape {data.get_shape()}")
 
 
 # write preprocessed data and labels to disk
 with open('data_preprocessed.pickle', 'wb') as out_file:
-	pickle.dump((data, label), out_file)
+	stored_data = {
+		'data': data,
+		'labels': label,
+		'feature_names': feature_names,
+	}
+	pickle.dump(stored_data, out_file)
