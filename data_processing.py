@@ -14,7 +14,7 @@ DEFAULT_OUT_FILE_PATH = 'data_preprocessed.pickle'
 nlp = spacy.load("en")
 
 
-def _read_raw_data_from_files(file_paths: List[str]) -> List:
+def read_raw_data_from_files(file_paths: List[str]) -> List:
 	json_data = []
 
 	for file_path in file_paths:
@@ -87,7 +87,7 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts') \
 
 	if file_paths is None:
 		file_paths = DEFAULT_IN_FILE_PATHS
-	raw_data = _read_raw_data_from_files(file_paths)
+	raw_data = read_raw_data_from_files(file_paths)
 
 	if instance_type == 'posts':
 		data, labels = _load_post_instances(raw_data)
