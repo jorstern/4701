@@ -4,7 +4,7 @@ import pickle
 from typing import List
 
 import numpy as np
-from sklearn.cluster import KMeans
+from sklearn.cluster import SpectralClustering
 from data_processing import DEFAULT_IN_FILE_PATHS as DEFAULT_RAW_DATA_FILE_NAMES, read_raw_data_from_files
 
 
@@ -27,13 +27,13 @@ def _main():
     data = data_dict['data'][:, feature_indices]
     print(data.shape)
 
-    k_means = KMeans(n_clusters=NUMBER_OF_CLUSTERS, max_iter=1000)
+    clustering = SpectralClustering(n_clusters=NUMBER_OF_CLUSTERS, n_components=NUMBER_OF_CLUSTERS)
     # for instance i, cluster_indices[i] is the index of the cluster the instance is in
-    cluster_indices = k_means.fit_predict(data)
+    cluster_indices = clustering.fit_predict(data)
 
     # restructure the cluster information so that clusters[i] contains the indices of all instances in cluster i
     clusters = []
-    for i in range(NUMBER_OF_CLUSTERS):
+    for i in range(NUMBER_OF_CLUSTERS + 10):
         clusters.append(np.argwhere(cluster_indices == i).flatten())
 
     # replace indices with respective subreddit names
