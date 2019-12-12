@@ -6,6 +6,7 @@ from scipy.sparse import csr_matrix, vstack
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+import math
 
 
 DEFAULT_IN_FILE_PATHS = ['data_left.txt', 'data_right.txt']
@@ -69,7 +70,7 @@ def _group_by_subreddits(data, subreddits, labels, scores=None):
 
 	for i in range(len(subreddits) + 1):
 		if i == len(subreddits) or subreddits[i] != subreddits[last_index]:
-			multiplier = csr_matrix([0 if j < last_index or j >= i else (scores[j] if scores else 1) for j in range(len(subreddits))])
+			multiplier = csr_matrix([0 if j < last_index or j >= i else (round(math.sqrt(scores[j])) if scores and scores[j] > 0 else 1) for j in range(len(subreddits))])
 			subreddit_data = multiplier.dot(data)
 			if grouped_data == None:
 				grouped_data = subreddit_data
