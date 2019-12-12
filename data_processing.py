@@ -60,9 +60,9 @@ def _bag_of_words(data, ngram_range=(1, 2), tokenizer=_spacy_tokenizer) -> Tuple
 	return result, vectorizer.get_feature_names()
 
 def _group_by_subreddits(data, subreddits, labels, scores=None):
-	# group the data from the same subreddit into one, weighted by the scores.
-	# e.g. data = [[1,1], [1,2], [2,1], [2,2]], subreddits = ['xx', 'xx', 'yy', 'yy'], scores = [1, 2, 3, 4]
-	# Then the grouped_data will be [[1,1]*1 + [1,2]*2, [2,1]*3 + [2,2]*4] = [[3,5], [14,11]]
+	# group the data from the same subreddit into one, weighted by the sqrt(scores).
+	# e.g. data = [[1,1], [1,2], [2,1], [2,2]], subreddits = ['xx', 'xx', 'yy', 'yy'], scores = [1, 4, 9, 16]
+	# Then the grouped_data will be [[1,1]*1 + [1,2]*sqrt(4), [2,1]*sqrt(9) + [2,2]*sqrt(16)] = [[3,5], [14,11]]
 	last_index = 0
 
 	grouped_data = None
