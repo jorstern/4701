@@ -2,7 +2,7 @@ import json
 import pickle
 from typing import List, Tuple
 
-from scipy.sparse import csr_matrix
+from scipy.sparse import csr_matrix, vstack
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -27,29 +27,20 @@ def read_raw_data_from_files(file_paths: List[str]) -> List:
 def _load_post_instances(json_data: List) -> Tuple[List, List[int]]:
 	data = []
 	labels = []
+	scores = []
+	subreddits = []
 	for subreddit in json_data:
 		for post in subreddit[1]['posts']:
 			data.append(post['title'])
 			labels.append(0 if subreddit[1]['leaning'] == 'left' else 1)
+			scores.append(post['score'])
+			subreddits.append(subreddit)
 		for comment in subreddit[1]['comments']:
 			data.append(comment['body'])
 			labels.append(0 if subreddit[1]['leaning'] == 'left' else 1)
-	return data, labels
-
-
-def _load_subreddit_instances(json_data: List) -> Tuple[List, List[int]]:
-	data = []
-	labels = []
-
-	for subreddit in json_data:
-		posts = [post['title'] for post in subreddit[1]['posts']]
-		comments = [comment['body'] for comment in subreddit[1]['comments']]
-		subreddit_text = " ".join(posts) + " " + " ".join(comments)
-
-		data.append(subreddit_text)
-		labels.append(0 if subreddit[1]['leaning'] == 'left' else 1)
-
-	return data, labels
+			scores.append(comment['score'])
+			subreddits.append(subreddit)
+	return data, labels, scores, subreddits
 
 
 def _spacy_tokenizer(data: List, remove_punct=True, remove_stopwords=True, lemmatize=True) -> List:
@@ -66,6 +57,28 @@ def _bag_of_words(data, ngram_range=(1, 2), tokenizer=_spacy_tokenizer) -> Tuple
 	vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer)
 	result = vectorizer.fit_transform(data)
 	return result, vectorizer.get_feature_names()
+
+def _group_by_subreddits(data, subreddits, labels, scores=None):
+	# group the data from the same subreddit into one, weighted by the scores.
+	# e.g. data = [[1,1], [1,2], [2,1], [2,2]], subreddits = ['xx', 'xx', 'yy', 'yy'], scores = [1, 2, 3, 4]
+	# Then the grouped_data will be [[1,1]*1 + [1,2]*2, [2,1]*3 + [2,2]*4] = [[3,5], [14,11]]
+	last_index = 0
+
+	grouped_data = None
+	grouped_labels = []
+
+	for i in range(len(subreddits) + 1):
+		if i == len(subreddits) or subreddits[i] != subreddits[last_index]:
+			multiplier = csr_matrix([0 if j < last_index or j >= i else (scores[j] if scores else 1) for j in range(len(subreddits))])
+			subreddit_data = multiplier.dot(data)
+			if grouped_data == None:
+				grouped_data = subreddit_data
+			else:
+				grouped_data = vstack((grouped_data, subreddit_data))
+			grouped_labels.append(labels[last_index])
+
+			last_index = i # update the last index
+	return grouped_data, grouped_labels
 
 
 def _tf_idf(data: csr_matrix) -> csr_matrix:
@@ -89,14 +102,10 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts') \
 		file_paths = DEFAULT_IN_FILE_PATHS
 	raw_data = read_raw_data_from_files(file_paths)
 
-	if instance_type == 'posts':
-		data, labels = _load_post_instances(raw_data)
-	elif instance_type == 'subs':
-		data, labels = _load_subreddit_instances(raw_data)
-	else:
-		raise ValueError("type is neither 'posts' nor 'subs'")
-
+	data, labels, scores, subreddits = _load_post_instances(raw_data)
 	data, feature_names = _bag_of_words(data)
+	if instance_type == 'subs':
+		data, labels = _group_by_subreddits(data, subreddits, labels, scores)
 	data = _tf_idf(data)
 	print(f"Preprocessed data has shape {data.get_shape()}")
 
