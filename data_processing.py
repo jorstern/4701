@@ -59,6 +59,28 @@ def _bag_of_words(data, ngram_range=(1, 2), tokenizer=_spacy_tokenizer) -> Tuple
 	result = vectorizer.fit_transform(data)
 	return result, vectorizer.get_feature_names()
 
+def _named_entity_tokenizer(data):
+	return [
+		token.orth_ for token in nlp(data)
+		if not token.is_punct
+		and not token.is_space
+	]
+
+def _bag_of_named_entity(data, entity_max_len=3):
+	named_entity = set()
+	types = {"PERSON", "NORP", "FAC", "ORG", "GPE", "LOC", "PRODUCT", "EVENT", "WORK_OF_ART", "LAW", "LANGUAGE"}
+
+	for item in data:
+		doc = nlp(item)
+		for ent in doc.ents:
+			if ent.label_ in types and ent.text.lower() not in named_entity and len(ent.text.split()) <= entity_max_len:
+				named_entity.add(ent.text.lower())
+	vectorizer = CountVectorizer(tokenizer=_named_entity_tokenizer, vocabulary=named_entity)
+	result = vectorizer.fit_transform(data)
+
+	return result, vectorizer.get_feature_names()
+
+
 def _group_by_subreddits(data, subreddits, labels, scores=None):
 	# group the data from the same subreddit into one, weighted by the sqrt(scores).
 	# e.g. data = [[1,1], [1,2], [2,1], [2,2]], subreddits = ['xx', 'xx', 'yy', 'yy'], scores = [1, 4, 9, 16]
@@ -87,7 +109,7 @@ def _tf_idf(data: csr_matrix) -> csr_matrix:
 	return transformer.fit_transform(data)
 
 
-def load_data(file_paths: List[str] = None, instance_type: str = 'posts') \
+def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_entity=False) \
 		-> Tuple[csr_matrix, List[int], List[str]]:
 	"""
 	Reads raw data in JSON form from file_paths and preprocesses it.
@@ -104,7 +126,10 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts') \
 	raw_data = read_raw_data_from_files(file_paths)
 
 	data, labels, scores, subreddits = _load_post_instances(raw_data)
-	data, feature_names = _bag_of_words(data)
+	if named_entity:
+		data, feature_names = _bag_of_named_entity(data)
+	else:
+		data, feature_names = _bag_of_words(data)
 	if instance_type == 'subs':
 		data, labels = _group_by_subreddits(data, subreddits, labels, scores)
 	data = _tf_idf(data)
@@ -126,4 +151,5 @@ def _store_preprocessed_data(
 		pickle.dump(stored_data, out_file)
 
 
+# _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs', named_entity=True))
 _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs'))
