@@ -71,6 +71,4 @@ LEFT_TEST_SUBS = [
     'lgbt',
     'politics',
     'sandersforpresident',
-
-
 ]
