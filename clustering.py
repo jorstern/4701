@@ -1,11 +1,12 @@
-from find_useful_features import find_most_useful_feature_indices
+import numpy as np
+from sklearn.cluster import SpectralClustering
 
 import pickle
 from typing import List
 
-import numpy as np
-from sklearn.cluster import SpectralClustering
 from data_processing import DEFAULT_IN_FILE_PATHS as DEFAULT_RAW_DATA_FILE_NAMES, read_raw_data_from_files
+from find_useful_features import find_most_useful_feature_indices
+from evaluation import print_metrics
 
 
 NUMBER_OF_CLUSTERS = 5
@@ -33,7 +34,7 @@ def _main():
 
     # restructure the cluster information so that clusters[i] contains the indices of all instances in cluster i
     clusters = []
-    for i in range(NUMBER_OF_CLUSTERS + 10):
+    for i in range(NUMBER_OF_CLUSTERS + 5):
         clusters.append(np.argwhere(cluster_indices == i).flatten())
 
     # replace indices with respective subreddit names
@@ -43,6 +44,9 @@ def _main():
     print("Clusters:")
     for i, cluster in enumerate(clusters_with_names):
         print(f"{i}: {', '.join(cluster)}")
+
+    # evaluate clustering
+    print_metrics(cluster_indices.tolist(), data_dict['labels'])
 
 
 _main()
