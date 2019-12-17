@@ -24,4 +24,5 @@ pubs = {
 cnx = sqlite3.connect('all-the-news.db')
 df = pd.read_sql_query("SELECT title, author, date, content, publication FROM longform", cnx)
 df = df[df['publication'].isin(pubs.keys())]
-print(df)
+
+df.to_csv('news_data.csv')
