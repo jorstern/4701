@@ -148,7 +148,7 @@ def _store_preprocessed_data(
 	out_file_path: str = DEFAULT_OUT_FILE_PATH
 ):
 	lr_results = classify_as_feature(data, labels)
-	data = hstack([data, lr_results])
+	data = csr_matrix(hstack([data, lr_results]))
 	print(data.get_shape())
 	with open(out_file_path, 'wb') as out_file:
 		stored_data = {
