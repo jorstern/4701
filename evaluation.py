@@ -35,6 +35,12 @@ def print_baseline_metrics():
     #     'jordanpeterson', 'louderwithcrowder', 'metacanada', 'newpatriotism', 'paleoconservative',
     #     'republican', 'rightwinglgbt', 'shitpoliticssays', 'the_donald', 'thenewright', 'tuesday', 'walkaway'
     # ]
-
+    score_correct = 0
+    for i in range(len(baseline_predictions)):
+        if baseline_predictions[i] == ground_truth[i]:
+            score_correct += 1
     print("Baseline (on training set):")
     print_metrics(baseline_predictions, ground_truth)
+    print("Baseline Accuracy (on training set): ", score_correct/len(ground_truth))
+
+print_baseline_metrics()
