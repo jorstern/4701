@@ -2,10 +2,11 @@ import json
 import pickle
 from typing import List, Tuple
 
-from scipy.sparse import csr_matrix, vstack
+from scipy.sparse import csr_matrix, vstack, hstack
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.linear_model import LogisticRegression
 import math
 
 
@@ -137,11 +138,18 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_
 
 	return data, labels, feature_names
 
+def classify_as_feature(csr_matrix, labels):
+	classifier = LogisticRegression(solver='liblinear', max_iter=1000)
+	classifier.fit(csr_matrix, labels)
+	return classifier.predict_proba(csr_matrix)
 
 def _store_preprocessed_data(
 	data: csr_matrix, labels: List[int], feature_names: List[str],
 	out_file_path: str = DEFAULT_OUT_FILE_PATH
 ):
+	lr_results = classify_as_feature(data, labels)
+	data = hstack([data, lr_results])
+	print(data.get_shape())
 	with open(out_file_path, 'wb') as out_file:
 		stored_data = {
 			'data': data,
@@ -149,6 +157,7 @@ def _store_preprocessed_data(
 			'feature_names': feature_names,
 		}
 		pickle.dump(stored_data, out_file)
+
 
 
 # _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs', named_entity=True))
