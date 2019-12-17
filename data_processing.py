@@ -141,14 +141,18 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_
 def classify_as_feature(csr_matrix, labels):
 	classifier = LogisticRegression(solver='liblinear', max_iter=1000)
 	classifier.fit(csr_matrix, labels)
+	with open('classifier_model.pickle','wb') as outfile:
+		pickle.dump(classifier, outfile)
+
 	return classifier.predict_proba(csr_matrix)
 
 def _store_preprocessed_data(
 	data: csr_matrix, labels: List[int], feature_names: List[str],
-	out_file_path: str = DEFAULT_OUT_FILE_PATH
-):
-	lr_results = classify_as_feature(data, labels)
-	data = csr_matrix(hstack([data, lr_results]))
+	out_file_path: str = DEFAULT_OUT_FILE_PATH, training=True):
+	if training:
+		lr_results = classify_as_feature(data, labels)
+		data = csr_matrix(hstack([data, lr_results]))
+
 	print(data.get_shape())
 	with open(out_file_path, 'wb') as out_file:
 		stored_data = {
@@ -159,6 +163,9 @@ def _store_preprocessed_data(
 		pickle.dump(stored_data, out_file)
 
 
+def main():
+	# _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs', named_entity=True))
+	_store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs'))
 
-# _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs', named_entity=True))
-_store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs'))
+def test(test_file_paths, test_out_path):
+	_store_preprocessed_data(*load_data(test_file_paths, 'subs'), out_file_path=test_out_path, training=False)

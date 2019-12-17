@@ -4,7 +4,7 @@ import datetime as dt
 import json
 from typing import Any, Dict, List, Tuple
 
-from subreddit_labels import LEFT_LEANING_SUBS, RIGHT_LEANING_SUBS
+from subreddit_labels import LEFT_LEANING_SUBS, RIGHT_LEANING_SUBS, RIGHT_TEST_SUBS, LEFT_TEST_SUBS
 
 
 def get_data(
@@ -59,6 +59,14 @@ def main():
 
     subs = get_data(RIGHT_LEANING_SUBS, 'right', num, api, start_epoch, end_epoch)
     with open('data_right.txt', 'w') as outfile:
+        json.dump(subs, outfile)
+
+    subs = get_data(RIGHT_TEST_SUBS, 'right', num, api, start_epoch, end_epoch)
+    with open('data_right_test.txt', 'w') as outfile:
+        json.dump(subs, outfile)
+
+    subs = get_data(LEFT_TEST_SUBS, 'right', num, api, start_epoch, end_epoch)
+    with open('data_left_test.txt', 'w') as outfile:
         json.dump(subs, outfile)
 
 
