@@ -44,3 +44,33 @@ LEFT_LEANING_SUBS = [
     'chomsky',
     'circlebroke',
 ]
+
+RIGHT_TEST_SUBS = [
+    'askthe_donald',
+    'capitalism',
+    'dankememes',
+    'islamunveiled',
+    'headlinecorrections',
+    'progun',
+    'prolife',
+    'socialjusticeinaction',
+    'tumblrinaction',
+    'uncensorednews'
+    'whiteknighting',
+]
+
+LEFT_TEST_SUBS = [
+    'blacklivesmatter',
+    'communism',
+    'democrats',
+    'esist',
+    'femmethoughts',
+    'fuckthealtright',
+    'impeach_trump',
+    'labour',
+    'lgbt',
+    'politics',
+    'sandersforpresident',
+
+
+]
