@@ -1,0 +1,2522 @@
+[
+    [
+        "askaconservative",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572992366,
+                    "score": 1,
+                    "title": "Aside From Trump, Who Are Some Conservative Leaders You Currently Support?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds6kzh/aside_from_trump_who_are_some_conservative/",
+                    "created": 1573010366
+                },
+                {
+                    "created_utc": 1572989350,
+                    "score": 1,
+                    "title": "What do conservatives think the solution is to the problem presented by these links?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds5w02/what_do_conservatives_think_the_solution_is_to/",
+                    "created": 1573007350
+                },
+                {
+                    "created_utc": 1572981487,
+                    "score": 1,
+                    "title": "Do we have a white supremacist problem?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds413j/do_we_have_a_white_supremacist_problem/",
+                    "created": 1572999487
+                },
+                {
+                    "created_utc": 1572981409,
+                    "score": 1,
+                    "title": "What is the conservative plan for reducing population?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds40ds/what_is_the_conservative_plan_for_reducing/",
+                    "created": 1572999409
+                },
+                {
+                    "created_utc": 1572981331,
+                    "score": 1,
+                    "title": "Is it OK to be white, or not?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds3zrh/is_it_ok_to_be_white_or_not/",
+                    "created": 1572999331
+                },
+                {
+                    "created_utc": 1572978544,
+                    "score": 1,
+                    "title": "62% of Trump supporters say there is nothing he could do to make them lose their support. That's the definition of a cult of personality, isn't it?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds3b9n/62_of_trump_supporters_say_there_is_nothing_he/",
+                    "created": 1572996544
+                },
+                {
+                    "created_utc": 1572971121,
+                    "score": 1,
+                    "title": "Do you really need to know the name of the whistle blower?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds1j3i/do_you_really_need_to_know_the_name_of_the/",
+                    "created": 1572989121
+                },
+                {
+                    "created_utc": 1572967750,
+                    "score": 1,
+                    "title": "What are your views on intersex people?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/ds0pus/what_are_your_views_on_intersex_people/",
+                    "created": 1572985750
+                },
+                {
+                    "created_utc": 1572962319,
+                    "score": 1,
+                    "title": "What would/could be a conservative Democratic party platform?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/drzhn9/what_wouldcould_be_a_conservative_democratic/",
+                    "created": 1572980319
+                },
+                {
+                    "created_utc": 1572936399,
+                    "score": 1,
+                    "title": "A comment I found, how to reply on this one?",
+                    "url": "https://www.reddit.com/r/askaconservative/comments/drvipj/a_comment_i_found_how_to_reply_on_this_one/",
+                    "created": 1572954399
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Absolutely. The only way to adopt children into your family is to have a blood ritual.",
+                    "created_utc": 1573001383,
+                    "score": 1,
+                    "created": 1573019383
+                },
+                {
+                    "body": "&gt; all sorts of wild claims that have been proven over and over again to be false\n\nDo you have an example? \n\n&gt; this continual barrage of Alinsky tactics has coarsened the discourse to the point where people are going to just vote for him and ignore what you say.\n\nI understand what you\\u2019re saying up until this point. What I don\\u2019t get is why people think electing Trump will make anything better. It seems like the equivalent of flipping over the chessboard.\n\n&gt; The way out of this mess is civility. \n\nIf Trump was a way to get back at the SJWs for being assholes, think how it looked to the majority of Democrats and independents who were trying to be civil before you elected Trump. This came as quite a shock to me, who has never called anyone a Nazi. I was going to vote for Rand Paul or maybe Rubio. Now I can\\u2019t even take the Republican party seriously.\n\nI think what happened here is the media played up the nastiness of the political discourse so much that now it has no need to exaggerate.",
+                    "created_utc": 1573001093,
+                    "score": 1,
+                    "created": 1573019093
+                },
+                {
+                    "body": "The first presidency post-Trump will be noticable to many people, especially if a Democrat happens to grab 2024.",
+                    "created_utc": 1573001047,
+                    "score": 1,
+                    "created": 1573019047
+                },
+                {
+                    "body": "The Supreme Court picks, as well as the many judges that have been sworn in. \n\n\nThe wall, for sure, unless we get a Democrat president in 2020 who decides to tear it down.",
+                    "created_utc": 1573000856,
+                    "score": 1,
+                    "created": 1573018856
+                },
+                {
+                    "body": "White Supremacist denies white supremacy. Suprises Pickahu Face.",
+                    "created_utc": 1573000783,
+                    "score": 1,
+                    "created": 1573018783
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572999833,
+                    "score": 1,
+                    "created": 1573017833
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572999666,
+                    "score": 1,
+                    "created": 1573017666
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572998248,
+                    "score": 1,
+                    "created": 1573016248
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572998209,
+                    "score": 1,
+                    "created": 1573016209
+                },
+                {
+                    "body": "Do you guys ever stop and read the nutty shit you write before you hit send?",
+                    "created_utc": 1572996873,
+                    "score": 1,
+                    "created": 1573014873
+                }
+            ]
+        }
+    ],
+    [
+        "benshapiro",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572977834,
+                    "score": 1,
+                    "title": "Ep. 890 - Afghanistan On The Border - SoundCloud",
+                    "url": "https://soundcloud.com/benshapiroshow/ep890",
+                    "created": 1572995834
+                },
+                {
+                    "created_utc": 1572911680,
+                    "score": 1,
+                    "title": "Have We Always Been On the Right Side of History? Please take my quiz and survey about America",
+                    "url": "https://www.reddit.com/r/benshapiro/comments/drqmf8/have_we_always_been_on_the_right_side_of_history/",
+                    "created": 1572929680
+                },
+                {
+                    "created_utc": 1572906180,
+                    "score": 1,
+                    "title": "Did Vindman say \"nothing illegal\" happened on the phone call?",
+                    "url": "https://www.reddit.com/r/benshapiro/comments/drpbdj/did_vindman_say_nothing_illegal_happened_on_the/",
+                    "created": 1572924180
+                },
+                {
+                    "created_utc": 1572896743,
+                    "score": 29,
+                    "title": "Ep. 889 - Beto is Donezo - SoundCloud",
+                    "url": "https://soundcloud.com/benshapiroshow/ep889",
+                    "created": 1572914743
+                },
+                {
+                    "created_utc": 1572852637,
+                    "score": 1,
+                    "title": "Well, that is where you are wrong",
+                    "url": "https://i.redd.it/6dund0nvgmw31.png",
+                    "created": 1572870637
+                },
+                {
+                    "created_utc": 1572817397,
+                    "score": 43,
+                    "title": "Peter Robinson | The Ben Shapiro Show Sunday Special Ep. 75 | Sun Nov 3",
+                    "url": "https://youtu.be/WvPSWODPMjU",
+                    "created": 1572835397
+                },
+                {
+                    "created_utc": 1572816525,
+                    "score": 3,
+                    "title": "Does anyone else use Google's \"Hidden Sources\" to filter out news from extreme leftist sites like WAPO and Vox?",
+                    "url": "https://www.reddit.com/r/benshapiro/comments/dr71wa/does_anyone_else_use_googles_hidden_sources_to/",
+                    "created": 1572834525
+                },
+                {
+                    "created_utc": 1572758707,
+                    "score": 9,
+                    "title": "Dramatization video of the Dems first going after Trump with Russia, then again now with Ukraine.",
+                    "url": "https://v.redd.it/a9hhsdqp09w31",
+                    "created": 1572776707
+                },
+                {
+                    "created_utc": 1572748691,
+                    "score": 21,
+                    "title": "Ad free version of the podcast?",
+                    "url": "https://www.reddit.com/r/benshapiro/comments/dqun5k/ad_free_version_of_the_podcast/",
+                    "created": 1572766691
+                },
+                {
+                    "created_utc": 1572673843,
+                    "score": 1,
+                    "title": "What did the founder of the daily wire mean by this",
+                    "url": "https://www.reddit.com/r/benshapiro/comments/dqg9mn/what_did_the_founder_of_the_daily_wire_mean_by/",
+                    "created": 1572691843
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Some totally related trivia...\n\nThe Democrats could give 2-shits about the ethics, verbiage or morality of **ANY** of the laws they pretend Trump violated or accusations they've hurled to date. They have been gunning to impeach him since Day-1, so even if (and that's a big if) there is any truth to this particular cry for wolf- half the country has turned out to theit crapfest.",
+                    "created_utc": 1573001084,
+                    "score": 1,
+                    "created": 1573019084
+                },
+                {
+                    "body": "Some unrelated trivia:\n\nThe framers of the Constitution understood \"High Crimes and Misdemeanors\" as things that involved political and administrative misconduct, not merely crimes in the common law sense.\n\nThis was very well known, had 400 years of English precedent, and was described in *Commentaries on the Laws of England* (an influential 18th-century treatise on the common law of England) by Sir William Blackstone. Framers attending the Constitutional Convention extensively used Blackstone's book as a resource during the Convention. \n\nSources:\n\n* https://www.lawliberty.org/2018/08/08/the-original-meaning-of-high-crimes-and-misdemeanors-part-1/\n\n* https://en.wikipedia.org/wiki/Commentaries_on_the_Laws_of_England",
+                    "created_utc": 1572992913,
+                    "score": 1,
+                    "created": 1573010913
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572985300,
+                    "score": 1,
+                    "created": 1573003300
+                },
+                {
+                    "body": "Spot on. I'm always amazed at how much Ben plays into the silly conservative myth that the media is pulling all the puppet strings in society. Yes, Ben, all Democrat voters are just drooling NPCs who have no agency and listen to whatever the NYT or Washington Post is telling them that day, lol.",
+                    "created_utc": 1572926325,
+                    "score": 1,
+                    "created": 1572944325
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572924012,
+                    "score": 1,
+                    "created": 1572942012
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572923858,
+                    "score": 1,
+                    "created": 1572941858
+                },
+                {
+                    "body": "&gt;he lies and says bernie is liked by the media\n\nLiterally you're the one lying. He said the exact opposite 9 minutes in. He said the Media has left Bernie behind.",
+                    "created_utc": 1572916520,
+                    "score": 1,
+                    "created": 1572934520
+                },
+                {
+                    "body": "Tl;dr",
+                    "created_utc": 1572913988,
+                    "score": 1,
+                    "created": 1572931988
+                },
+                {
+                    "body": "Out of curiosity, why do you say Bernie Sanders is DOA? He easily has the most passionate base out of any of the DNC nominees.",
+                    "created_utc": 1572911623,
+                    "score": 1,
+                    "created": 1572929623
+                },
+                {
+                    "body": "Ben is so full of shit lol. He says the dem primary is a story of who the media falls in love with, but then turns around and acknowledges the proof he\\u2019s wrong in Biden. He\\u2019s been winning as long as he\\u2019s bee on despite continual bad stories. \n\nThen he lies and says Bernie is liked by the media. Blatantly untrue.  Not to mention warrens good press has come after she gained support from the public. \n\nOnly person he was right about was Pete being supported by media. But this exposes another dumbass idea Ben keeps pushing, how all the minority candidates are losing despite his claims that intersectionality identity is what propelled the candidates. \n\nBen es wrong about Beto too. Beto failed no because the media didn\\u2019t back him, it\\u2019s because his liberal in Texas , is milqetoast at a national level. Ben claims he never had any actual backing except he actually got close to beating ted Cruz in Texas. That\\u2019s a sign he had actual backing. Pathetic commentary",
+                    "created_utc": 1572905783,
+                    "score": 1,
+                    "created": 1572923783
+                }
+            ]
+        }
+    ],
+    [
+        "conservative",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573000598,
+                    "score": 1,
+                    "title": "\\u201cI did not have sexual relations with that woman\\u201d",
+                    "url": "https://i.redd.it/sjnvnlbvoyw31.png",
+                    "created": 1573018598
+                },
+                {
+                    "created_utc": 1573000592,
+                    "score": 1,
+                    "title": "McDonald\\u2019s and the perils of wooing at work",
+                    "url": "https://www.ft.com/content/5006fa50-ff00-11e9-b7bc-f3fa4e77dd47?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9",
+                    "created": 1573018592
+                },
+                {
+                    "created_utc": 1573000421,
+                    "score": 1,
+                    "title": "NBCs first reaction to US citizens being butchered along the Mexican border? Attacking and insulting the victims.",
+                    "url": "https://www.google.com/amp/s/www.nbcnews.com/news/amp/ncna1076776",
+                    "created": 1573018421
+                },
+                {
+                    "created_utc": 1572999975,
+                    "score": 1,
+                    "title": "Another in custody after viral video of NYC police doused with water",
+                    "url": "https://nypost.com/2019/11/05/harlem-water-douser-arrested-3-months-after-viral-anti-cop-videos/",
+                    "created": 1573017975
+                },
+                {
+                    "created_utc": 1572998907,
+                    "score": 1,
+                    "title": "Trump Must Seize Domains Of Googl Facebook And Youtube To Stop Censorship",
+                    "url": "https://outline.com/GJBU9t",
+                    "created": 1573016907
+                },
+                {
+                    "created_utc": 1572998670,
+                    "score": 1,
+                    "title": "Hey guys what do you think of this",
+                    "url": "https://i.redd.it/unmra8u4jyw31.jpg",
+                    "created": 1573016670
+                },
+                {
+                    "created_utc": 1572998593,
+                    "score": 1,
+                    "title": "Conservative journalist Kaitlin Bennett and her fianc\\u00e9 gets assaulted by two antifa members and the police do nothing about it. Why are the cops even there if they\\u2019re not gonna do their job!?",
+                    "url": "https://youtu.be/vcgmwmco_QM",
+                    "created": 1573016593
+                },
+                {
+                    "created_utc": 1572998509,
+                    "score": 1,
+                    "title": "This has become the function of the MSM",
+                    "url": "https://i.redd.it/qgzey0vvhyw31.png",
+                    "created": 1573016509
+                },
+                {
+                    "created_utc": 1572997790,
+                    "score": 1,
+                    "title": "Interesting.",
+                    "url": "https://i.redd.it/ckov2ekigyw31.png",
+                    "created": 1573015790
+                },
+                {
+                    "created_utc": 1572997420,
+                    "score": 1,
+                    "title": "What step are y'all on?",
+                    "url": "https://www.reddit.com/r/Conservative/comments/ds7pqa/what_step_are_yall_on/",
+                    "created": 1573015420
+                }
+            ],
+            "comments": [
+                {
+                    "body": "I'm suggesting the US doesn't pay for everybody's mistakes. Read my other comments, too. There's plenty of things that are currently going on",
+                    "created_utc": 1573001741,
+                    "score": 1,
+                    "created": 1573019741
+                },
+                {
+                    "body": "Whole country absolutely sucks. Corrupt officials, corrupt military, super wealthy cartels that don\\u2019t give a fuck who they kill because they\\u2019re diplomatically immune.\n\nThe cartels have fully auto rifles, armored cars, 50 caliber sniper rifles, grenade launchers, etc. It\\u2019s absolutely bonkers to think of how well equipped they are for street gangs.",
+                    "created_utc": 1573001696,
+                    "score": 1,
+                    "created": 1573019696
+                },
+                {
+                    "body": "I said disposal plan. I totally agree the cost-benefit ratio is amazing, but eventually they will become unusable (~15yrs avg). At that point when the proverbial \"can\" cannot be kicked any further, a plutonium level and style of disposal funds and engineering will be required to safely dispose of these panels. Right now, trash transfer station ship them to New Mexico where they stick pile without contaminating anything important.",
+                    "created_utc": 1573001694,
+                    "score": 1,
+                    "created": 1573019694
+                },
+                {
+                    "body": "Fuckin A",
+                    "created_utc": 1573001654,
+                    "score": 1,
+                    "created": 1573019654
+                },
+                {
+                    "body": "What a horrific injustice to the children that were raped on that island. We should bomb that fucking thing into the ocean.",
+                    "created_utc": 1573001623,
+                    "score": 1,
+                    "created": 1573019623
+                },
+                {
+                    "body": "Which is exactly why we should let *everybody* from Mexico in, right guys?",
+                    "created_utc": 1573001617,
+                    "score": 1,
+                    "created": 1573019617
+                },
+                {
+                    "body": "what a cunt",
+                    "created_utc": 1573001605,
+                    "score": 1,
+                    "created": 1573019605
+                },
+                {
+                    "body": "Sondland giving his ***opinion*** to the Ukrainian aide that aid being withheld was tied to investigations isn\\u2019t evidence of a quid pro quo. Sondland wasn\\u2019t directed to say that, literally nobody has testified that they were directed to inform the Ukrainians that aid was tied to investigations. Sondland\\u2019s comments are his opinion and nothing more. Other witnesses like Volker and Morrison have a very different opinion.",
+                    "created_utc": 1573001561,
+                    "score": 1,
+                    "created": 1573019561
+                },
+                {
+                    "body": "&gt;our government is not to be used to stop censorship\n\n\nIts not? \n\nWhy not? \n\nThe very purpose of govt is to protect the peoples interests. What else would it be for?\n\n thats literally what govt is\n\nThats why we created govt and gave it power to lead in the first place",
+                    "created_utc": 1573001534,
+                    "score": 1,
+                    "created": 1573019534
+                },
+                {
+                    "body": "We can do it again now that we don\\u2019t have Obama arming them. I do say bring it. Clean the place up and give it back to the people.",
+                    "created_utc": 1573001490,
+                    "score": 1,
+                    "created": 1573019490
+                }
+            ]
+        }
+    ],
+    [
+        "conservativelounge",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572088822,
+                    "score": 1,
+                    "title": "You\\u2019re Fired!",
+                    "url": "https://www.reddit.com/r/irredeemables/comments/dnclcl/these_9_treasonous_rinos_in_senate_support/",
+                    "created": 1572106822
+                },
+                {
+                    "created_utc": 1572014428,
+                    "score": 7,
+                    "title": "Heritage Foundation Unveils \\u2018True North\\u2019 Principles of Conservatism",
+                    "url": "http://bigwi.gg/heritage-unveils-true-north-principles/",
+                    "created": 1572032428
+                },
+                {
+                    "created_utc": 1571875945,
+                    "score": 1,
+                    "title": "The Right Voice - Live Now! Conservative commentary, guests. Pro-White.",
+                    "url": "http://mixlr.com/the-right-voice/",
+                    "created": 1571893945
+                },
+                {
+                    "created_utc": 1571850278,
+                    "score": 13,
+                    "title": "\\ud83d\\udc15",
+                    "url": "https://www.boston.com/news/policy/2019/10/22/proposed-massachusetts-law-would-ban-b-word",
+                    "created": 1571868278
+                },
+                {
+                    "created_utc": 1571169062,
+                    "score": 10,
+                    "title": "Lots of \"great\" comments from the top minds at Top Minds",
+                    "url": "https://i.redd.it/yyxs5ruw8os31.jpg",
+                    "created": 1571187062
+                },
+                {
+                    "created_utc": 1568647514,
+                    "score": 0,
+                    "title": "How the Media Fail",
+                    "url": "https://www.nationalreview.com/magazine/2019/02/11/bad-press/",
+                    "created": 1568665514
+                },
+                {
+                    "created_utc": 1567506688,
+                    "score": 12,
+                    "title": "Why Socialism Is the Failed Idea That Never Dies | Dr Rainer Zitelmann",
+                    "url": "https://fee.org/articles/why-socialism-is-the-failed-idea-that-never-dies/",
+                    "created": 1567524688
+                },
+                {
+                    "created_utc": 1565982440,
+                    "score": 0,
+                    "title": "The Case for Trump (Victor D. Hansen)",
+                    "url": "https://www.reddit.com/r/ConservativeLounge/comments/craxub/the_case_for_trump_victor_d_hansen/",
+                    "created": 1566000440
+                },
+                {
+                    "created_utc": 1564632042,
+                    "score": 0,
+                    "title": "Challenging Darwinism",
+                    "url": "https://www.reddit.com/r/ConservativeLounge/comments/ckj8k1/challenging_darwinism/",
+                    "created": 1564650042
+                },
+                {
+                    "created_utc": 1559478948,
+                    "score": 4,
+                    "title": "Hitler and the socialist dream",
+                    "url": "https://www.independent.co.uk/arts-entertainment/hitler-and-the-socialist-dream-1186455.html",
+                    "created": 1559496948
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Yeah I agree with that list. I could expand upon it, but this is a good \"short\" list.",
+                    "created_utc": 1572319218,
+                    "score": 2,
+                    "created": 1572337218
+                },
+                {
+                    "body": "Compare it with Russell Kirk\\u2019s piece here: https://kirkcenter.org/conservatism/ten-conservative-principles/\n\nHeritage Foundation does some good policy work, but it\\u2019s very far out of its depth beyond that.",
+                    "created_utc": 1572294179,
+                    "score": 2,
+                    "created": 1572312179
+                },
+                {
+                    "body": "That\\u2019s not what treason means.",
+                    "created_utc": 1572091875,
+                    "score": 1,
+                    "created": 1572109875
+                },
+                {
+                    "body": "It's hard to read them with a straight face",
+                    "created_utc": 1572025483,
+                    "score": 1,
+                    "created": 1572043483
+                },
+                {
+                    "body": "Sign me up!",
+                    "created_utc": 1572019457,
+                    "score": 1,
+                    "created": 1572037457
+                },
+                {
+                    "body": "I like this a lot",
+                    "created_utc": 1572014737,
+                    "score": 1,
+                    "created": 1572032737
+                },
+                {
+                    "body": "Wouldn\\u2019t be so sure the propaganda and soy burgers have jeopardized our jury systems. Just last week a jury voted 11 to 12 that a father couldn\\u2019t stop a mother from castrating his 6 year old son",
+                    "created_utc": 1571903497,
+                    "score": 1,
+                    "created": 1571921497
+                },
+                {
+                    "body": "This would never stand court scrutiny if it is ever enforced.",
+                    "created_utc": 1571891655,
+                    "score": 1,
+                    "created": 1571909655
+                },
+                {
+                    "body": "How can this be seriously considered without being a 1st amendment issue?",
+                    "created_utc": 1571874147,
+                    "score": 2,
+                    "created": 1571892147
+                },
+                {
+                    "body": "Good article and spot on.\n\nThough it's interesting that the focus of this was the downfall of journalism yet he mentions no history of journalism itself.\n\nYellow journalism was the defacto journalism found at the end of the 19th century and throughout the early 20th century. The goal wasn't to inform its readers, but to sell papers and or push narratives. If you're interested in this type of media empire visit Hearse Castle in California. Hearse was a media mongrel during that time, and straight up published lies because it sold well and helped push a particular narrative he wanted the public to believe.\n\nPeople got so sick of this type of journalism that by the time the Great Depression hit there was a massive back lash to the point that journalist had to clean up their acts. Thus we had the \"Muckraker\" journalists. These are the types that existed to actually find the stories, instead of creating the stories. We associate journalists with the muckrakers as they were the standard for 50-60 years. There was still bias among journalists, but they still believed in integrity to their profession. Media owners/runners worked hard to ensure the integrity was followed, though there was occasional manipulation of then narrative by the media.\n\nStarting around the 90's/2000's we saw muckrakers begin to die off. The 24 hour news channels and internet left the long fact finding methodologies of muckrakers to be boring, slow, and resulted in little results. Fox News showed that people were interested in opinion shows more so than the actual news. Fox also called out the other media (along with personalities like Rush Limbaugh) for being partisan and selectively covering stories. Instead of dedicating themselves to those standards, they completely abandoned them. Yellow journalism had returned. First it was who could break a story first, to whatever fake story could actually get them ratings for the day. Once yellow journalism became the standard journalism it didn't take long for leftist political operations to utilize them for narrative control.\n\nFake News applies pretty heavily to nearly every media source now. These entities do not care about reporting the news, or finding facts. They care about selling clicks/papers and pushing a narrative. The more sensational the story, the better. Trump being a very sensational figure created a match made in hell. Though it didn't matter if it was Trump, the media had gone full in on this type of model since roughly 2004. These entities **still pretend** to be news sources, thus Fake News. If they were honest about their new model I wouldn't have an issue with them. They pose as if they are unbiased and just trying to get to the truth while they lie their asses off and push narratives that support Democrats.\n\nIn my life the first time I was aware of this type of tactic was with Bowling for Columbine. Michael Moore was mostly an unknown film maker when that film dropped, and he spent the \"documentary\" acting as if he was *just trying* to get to the bottom of the tragedy. He faked an unbiased investigation, where he clearly was pushing a far left narrative. That video got a lot of neutral people to become anti-gun. We saw a similar thing some years later with \"Inconvenient Truth\" from Al Gore.\n\nI would say the most famous individual to pull this off and cement the new media paradigm was none other than Jon Stewart, host of the Daily show. Far left biased piece of shit individual, who spent his show pretending as if he was just \"mocking both sides\". Those who watched his show believed his propaganda. He even led a \"moderate march\" as if he was a moderate. Millions of millennial were fooled by the douche back, and actually went to him as a source for news even though he constantly just said \"I'm a comedian, you can't take me seriously\". His effect on our culture and interpretation of events was huge. He criticized democrats for being stupid or incompetent, and attacked Republicans for being evil, hypocrites, or down right destructive. Very rarely did he attack a left leaning media personality or source, and he usually handled them with kid's gloves.\n\n---\n\nThis board seems dead though. Sorry I haven't been around. Thanks for sharing.",
+                    "created_utc": 1571523991,
+                    "score": 1,
+                    "created": 1571541991
+                }
+            ]
+        }
+    ],
+    [
+        "conservatives",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573000618,
+                    "score": 1,
+                    "title": "Support Trump 2020",
+                    "url": "https://www.reddit.com/r/conservatives/comments/ds8e8a/support_trump_2020/",
+                    "created": 1573018618
+                },
+                {
+                    "created_utc": 1573000598,
+                    "score": 1,
+                    "title": "Mark Meadows on Twitter - Clears up confusion about Sondland testimony.",
+                    "url": "https://twitter.com/RepMarkMeadows/status/1191810986082258944",
+                    "created": 1573018598
+                },
+                {
+                    "created_utc": 1573000544,
+                    "score": 1,
+                    "title": "Feds charge man with shooting at ICE agents during human trafficking raid",
+                    "url": "https://www.conservativereview.com/news/feds-charge-man-with-shooting-at-ice-agents-during-human-trafficking-raid/?utm_content=buffer9dd9e&amp;utm_medium=referral&amp;utm_source=twitter&amp;utm_campaign=tw-cr",
+                    "created": 1573018544
+                },
+                {
+                    "created_utc": 1573000527,
+                    "score": 1,
+                    "title": "\\u201cI did not have sexual relations with that woman\\u201d",
+                    "url": "https://i.redd.it/62yigvpnoyw31.png",
+                    "created": 1573018527
+                },
+                {
+                    "created_utc": 1573000485,
+                    "score": 1,
+                    "title": "Transcripts: Ex-Pompeo Adviser Rejects Schiff's Effort to Mischaracterize Him",
+                    "url": "https://www.breitbart.com/politics/2019/11/05/transcripts-ex-pompeo-adviser-rejects-adam-schiffs-effort-to-mischaracterize-his-testimony/?fbclid=IwAR3NYwmFU0RveneXt4Rz8KMFD2V-BGzyu_rc9v2LVMH-r4bEzQhSEPWbrFg",
+                    "created": 1573018485
+                },
+                {
+                    "created_utc": 1572999906,
+                    "score": 1,
+                    "title": "So its fine for Bernie to make millions with his book but Bad Orange Man's kid cant write a book?",
+                    "url": "https://i.redd.it/ji2l28wlxww31.jpg",
+                    "created": 1573017906
+                },
+                {
+                    "created_utc": 1572997552,
+                    "score": 1,
+                    "title": "So eerie!",
+                    "url": "https://i.redd.it/bcsljnfsfyw31.png",
+                    "created": 1573015552
+                },
+                {
+                    "created_utc": 1572997107,
+                    "score": 1,
+                    "title": "Elizabeth Warren slams Twitter for ban on ads tied to climate change",
+                    "url": "https://www.cnbc.com/2019/11/05/elizabeth-warren-slams-twitter-for-ban-on-ads-tied-to-climate-change.html?__source=twitter%7Cmain",
+                    "created": 1573015107
+                },
+                {
+                    "created_utc": 1572996732,
+                    "score": 1,
+                    "title": "House Democrats Try to Steal the March on U.S. Troops at Border",
+                    "url": "https://www.immigrationreform.com/2019/11/04/troops-southern-border-democrats-immigrationreform-com/",
+                    "created": 1573014732
+                },
+                {
+                    "created_utc": 1572995274,
+                    "score": 1,
+                    "title": "A Totalitarian Marxist, Not a \\u201cSocial Democrat\" - Bernie",
+                    "url": "https://www.frontpagemag.com/fpm/2019/11/totalitarian-marxist-not-social-democrat-discover-networks/",
+                    "created": 1573013274
+                }
+            ],
+            "comments": [
+                {
+                    "body": "[removed]",
+                    "created_utc": 1573001692,
+                    "score": 1,
+                    "created": 1573019692
+                },
+                {
+                    "body": "Seems to me the Muslims are at the top of the pyramid, especially in Europe.",
+                    "created_utc": 1573001650,
+                    "score": 1,
+                    "created": 1573019650
+                },
+                {
+                    "body": "Depends what kind.",
+                    "created_utc": 1573001536,
+                    "score": 1,
+                    "created": 1573019536
+                },
+                {
+                    "body": "unappreciated joke \\^\\^\\^",
+                    "created_utc": 1573001210,
+                    "score": 1,
+                    "created": 1573019210
+                },
+                {
+                    "body": "He\\u2019s far from traditional anyone who looks at his policies can see that but I guess I can say Killery\\u2019s friends name Warren to relate she\\u2019s trash too but yangs where it\\u2019s at homie",
+                    "created_utc": 1573001168,
+                    "score": 1,
+                    "created": 1573019168
+                },
+                {
+                    "body": "He isn\\u2019t \\u201cusing private office\\u201d",
+                    "created_utc": 1573001065,
+                    "score": 1,
+                    "created": 1573019065
+                },
+                {
+                    "body": "Oh, I'm sure those young black men are virulent right-wingers.\n\nJust stahp.",
+                    "created_utc": 1573001001,
+                    "score": 1,
+                    "created": 1573019001
+                },
+                {
+                    "body": "No.  He's a leftist.\n\nHe's got a traditionally left-wing platform.\n\nDo not advocate for leftist politicians here.",
+                    "created_utc": 1573000835,
+                    "score": 1,
+                    "created": 1573018835
+                },
+                {
+                    "body": "\\u2018Young black men or teenagers,\\u2019 according to Weiss in your link- which, as has been said repeatedly, does not equate to \\u2018Leftists.\\u2019 There\\u2019s no speculation about whether they\\u2019re from the neighborhood or not. She doesn\\u2019t say what you want her to have said. She also comments that white supremacists - who are mostly fringe rightists- are responsible for the most violent attacks.",
+                    "created_utc": 1573000802,
+                    "score": 1,
+                    "created": 1573018802
+                },
+                {
+                    "body": "&gt;is not the same as actual physical violence against Jews\n\nAre you unable to read?\n\n&gt;Who is beating the Jews in Crown Heights?\n\nOr doesn't that count as violence?",
+                    "created_utc": 1573000212,
+                    "score": 1,
+                    "created": 1573018212
+                }
+            ]
+        }
+    ],
+    [
+        "cringeanarchy",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1556226433,
+                    "score": 1,
+                    "title": "I/watermelonlemonade was here",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwp2/iwatermelonlemonade_was_here/",
+                    "created": 1556244433
+                },
+                {
+                    "created_utc": 1556226429,
+                    "score": 1,
+                    "title": "Admins are pussies",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwnu/admins_are_pussies/",
+                    "created": 1556244429
+                },
+                {
+                    "created_utc": 1556226426,
+                    "score": 1,
+                    "title": "u/Dillonallatt was here",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwmu/udillonallatt_was_here/",
+                    "created": 1556244426
+                },
+                {
+                    "created_utc": 1556226418,
+                    "score": 1,
+                    "title": "Remember when this sub was about making fun of autistic kids on YouTube",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwkr/remember_when_this_sub_was_about_making_fun_of/",
+                    "created": 1556244418
+                },
+                {
+                    "created_utc": 1556226412,
+                    "score": 1,
+                    "title": "u/lazerkings70 was here",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwj3/ulazerkings70_was_here/",
+                    "created": 1556244412
+                },
+                {
+                    "created_utc": 1556226396,
+                    "score": 1,
+                    "title": "u/rarnrnus was here",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwer/urarnrnus_was_here/",
+                    "created": 1556244396
+                },
+                {
+                    "created_utc": 1556226388,
+                    "score": 1,
+                    "title": "We are officially in heaven frens. How does it feel?",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwcu/we_are_officially_in_heaven_frens_how_does_it_feel/",
+                    "created": 1556244388
+                },
+                {
+                    "created_utc": 1556226385,
+                    "score": 1,
+                    "title": "Did the admins finally realize the shit show they would release if they banned CA and canceled?",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdwc8/did_the_admins_finally_realize_the_shit_show_they/",
+                    "created": 1556244385
+                },
+                {
+                    "created_utc": 1556226384,
+                    "score": 1,
+                    "title": "Peak Autism",
+                    "url": "https://www.reddit.com/r/AgainstHateSubreddits/comments/bhckhu/heres_over_30000_comments_from_cringeanarchy/",
+                    "created": 1556244384
+                },
+                {
+                    "created_utc": 1556226375,
+                    "score": 1,
+                    "title": "Pussy mods, just fucking do it",
+                    "url": "https://www.reddit.com/r/CringeAnarchy/comments/bhdw9j/pussy_mods_just_fucking_do_it/",
+                    "created": 1556244375
+                }
+            ],
+            "comments": [
+                {
+                    "body": "They'll lose the war, didn't you know the left can't meme?",
+                    "created_utc": 1556226446,
+                    "score": 1,
+                    "created": 1556244446
+                },
+                {
+                    "body": "Definitely seems suspicious",
+                    "created_utc": 1556226445,
+                    "score": 1,
+                    "created": 1556244445
+                },
+                {
+                    "body": "Now all you have to do is call out any calls/glorification of violence or targetted harassment, the fight isn't over if the sub stays.",
+                    "created_utc": 1556226444,
+                    "score": 1,
+                    "created": 1556244444
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1556226443,
+                    "score": 1,
+                    "created": 1556244443
+                },
+                {
+                    "body": "exactly",
+                    "created_utc": 1556226438,
+                    "score": 1,
+                    "created": 1556244438
+                },
+                {
+                    "body": "FIGHT TILL THE END FREN. PISS JUGS LOCKED AND LOADED!!! REEEEEEEEEEEEEEEEEEEEEEEEEEE",
+                    "created_utc": 1556226433,
+                    "score": 1,
+                    "created": 1556244433
+                },
+                {
+                    "body": "I guess it's going over my head. What is the joke?",
+                    "created_utc": 1556226433,
+                    "score": 1,
+                    "created": 1556244433
+                },
+                {
+                    "body": "/r/MemriTVmemes",
+                    "created_utc": 1556226431,
+                    "score": 1,
+                    "created": 1556244431
+                },
+                {
+                    "body": "Bruh moment",
+                    "created_utc": 1556226430,
+                    "score": 1,
+                    "created": 1556244430
+                },
+                {
+                    "body": "No Russian",
+                    "created_utc": 1556226429,
+                    "score": 1,
+                    "created": 1556244429
+                }
+            ]
+        }
+    ],
+    [
+        "jordanpeterson",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001383,
+                    "score": 1,
+                    "title": "Created this wallpaper from Peterson's latest Instagram post",
+                    "url": "https://i.redd.it/c5uir4y3ryw31.png",
+                    "created": 1573019383
+                },
+                {
+                    "created_utc": 1572999949,
+                    "score": 1,
+                    "title": "Family behind Krispy Kreme, Panera Bread admits to Nazi ties",
+                    "url": "https://www.nypost.com/2019/03/25/family-behind-krispy-kreme-panera-bread-admits-to-nazi-ties/",
+                    "created": 1573017949
+                },
+                {
+                    "created_utc": 1572999853,
+                    "score": 1,
+                    "title": "One American was arrested in a foreign country due to street violence. Another American was arrested for his political ideas. Guess who the US government helped?",
+                    "url": "https://www.youtube.com/watch?v=D5EHfiDG9lE",
+                    "created": 1573017853
+                },
+                {
+                    "created_utc": 1572995588,
+                    "score": 1,
+                    "title": "3 Important Questions No One Knows The Answers To (Universe Edition)",
+                    "url": "https://www.youtube.com/watch?v=GUmi_fPRtYQ&amp;feature=share",
+                    "created": 1573013588
+                },
+                {
+                    "created_utc": 1572994844,
+                    "score": 1,
+                    "title": "Women Fantasising About Traditional Families",
+                    "url": "https://i.redd.it/q0fy2i137yw31.jpg",
+                    "created": 1573012844
+                },
+                {
+                    "created_utc": 1572994805,
+                    "score": 1,
+                    "title": "Even Strong Women Need a Kind Word from a Man Every Once in a While",
+                    "url": "https://i.redd.it/kzzgt8s87yw31.jpg",
+                    "created": 1573012805
+                },
+                {
+                    "created_utc": 1572993914,
+                    "score": 1,
+                    "title": "How many of you did Peterson turn off from being alt right and helped to get on the right path?",
+                    "url": "https://www.reddit.com/r/JordanPeterson/comments/ds6xsd/how_many_of_you_did_peterson_turn_off_from_being/",
+                    "created": 1573011914
+                },
+                {
+                    "created_utc": 1572993076,
+                    "score": 1,
+                    "title": "[Letter] . 12 Rules in Spanish",
+                    "url": "https://www.reddit.com/r/JordanPeterson/comments/ds6qvc/letter_12_rules_in_spanish/",
+                    "created": 1573011076
+                },
+                {
+                    "created_utc": 1572991357,
+                    "score": 1,
+                    "title": "[Letter]",
+                    "url": "https://www.reddit.com/r/JordanPeterson/comments/ds6cly/letter/",
+                    "created": 1573009357
+                },
+                {
+                    "created_utc": 1572991249,
+                    "score": 2,
+                    "title": "Millennial Wishes There Were Some Historical Examples Of Socialism We Could Study To Have Some Idea How It Might Turn Out",
+                    "url": "https://babylonbee.com/news/millennial-wishes-there-were-previous-examples-of-socialism-we-could-look-at-to-have-some-idea-how-it-might-turn-out/",
+                    "created": 1573009249
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Lol conservatives get abortions too. You might want to check your idealogical possession at the door.",
+                    "created_utc": 1573001744,
+                    "score": 1,
+                    "created": 1573019744
+                },
+                {
+                    "body": "Name an action that will not require tax money to fund it",
+                    "created_utc": 1573001735,
+                    "score": 1,
+                    "created": 1573019735
+                },
+                {
+                    "body": "That was a personal conversation regarding a debater who continually asked for weeks the same questions without making his argument complete or listening to what his coach told him to do. If a football players regularly blows off the coach, how well do you think that goes?",
+                    "created_utc": 1573001717,
+                    "score": 1,
+                    "created": 1573019717
+                },
+                {
+                    "body": "You bitched and complained till you got it.  Now you dont like it.  Im still looking for the apology for all the names you call us men.",
+                    "created_utc": 1573001632,
+                    "score": 1,
+                    "created": 1573019632
+                },
+                {
+                    "body": "Operant conditioning BF skinner. Punishment is an important part of the conditioning quadrant.",
+                    "created_utc": 1573001574,
+                    "score": 1,
+                    "created": 1573019574
+                },
+                {
+                    "body": "As far as whites in America, it comes down to three things.\n\n1. Women being told/convinced that they want careers &gt; family\n2. Men realizing that having a kid with a woman these days can completely ruin their lives. We have things like MGTOW because of the complete inequality between men and women when it comes to having kids and what happens in marriage.\n3. The fact that 60% of American women are obese yet still completely entitled when it comes to dating, which--in accordance with #2 on my list--makes dating far less desirable for men, especially when there's porn out there. David Bond, love him or hate him, did a full video on this. https://www.youtube.com/watch?v=LJVWc0SdzAE\n\n4. The breakdown of the family. Kids now must move out of their hometowns to have jobs, which causes a rift between them and their family and because they are working so hard just to survive, they don't want to have kids and fuck that up. Money is harder to come by and inflation has ruined everything else. \n\n5. The fact that women now have to work to support the family as well.",
+                    "created_utc": 1573001565,
+                    "score": 1,
+                    "created": 1573019565
+                },
+                {
+                    "body": "Bizzare. I'm listening to invincible as I read your comment",
+                    "created_utc": 1573001550,
+                    "score": 1,
+                    "created": 1573019550
+                },
+                {
+                    "body": "That would make sense except the man who coined the term literally just got leaked saying that black people are beneath him and deserves slavery and led marches yelling Jews will not replace us",
+                    "created_utc": 1573001519,
+                    "score": 1,
+                    "created": 1573019519
+                },
+                {
+                    "body": "8 days later....",
+                    "created_utc": 1573001448,
+                    "score": 1,
+                    "created": 1573019448
+                },
+                {
+                    "body": "that is exactly the line used by the debater against Michael - a black person cant be racist. \n\nThis mentality must die. We need to return to using logic in debate again.",
+                    "created_utc": 1573001429,
+                    "score": 1,
+                    "created": 1573019429
+                }
+            ]
+        }
+    ],
+    [
+        "louderwithcrowder",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001655,
+                    "score": 1,
+                    "title": "Has Steven commented on the Recent \"Cold-feet crowder\" drama?",
+                    "url": "https://www.reddit.com/r/LouderWithCrowder/comments/ds8lyo/has_steven_commented_on_the_recent_coldfeet/",
+                    "created": 1573019655
+                },
+                {
+                    "created_utc": 1572998974,
+                    "score": 1,
+                    "title": "Florida county board rejects library's New York Times subscription as 'fake news'",
+                    "url": "https://www.reddit.com/r/news/comments/ds24uz/florida_county_board_rejects_librarys_new_york/",
+                    "created": 1573016974
+                },
+                {
+                    "created_utc": 1572998248,
+                    "score": 1,
+                    "title": "Guardians Of The Pedophiles",
+                    "url": "https://i.redd.it/o1cpe992hyw31.png",
+                    "created": 1573016248
+                },
+                {
+                    "created_utc": 1572997863,
+                    "score": 1,
+                    "title": "Never forget",
+                    "url": "https://i.redd.it/lnj58u3qgyw31.jpg",
+                    "created": 1573015863
+                },
+                {
+                    "created_utc": 1572997834,
+                    "score": 1,
+                    "title": "Entire comment section refuses to call it misandry or sexism, nope, it\\u2019s \\u201cfavoritism.\\u201d",
+                    "url": "https://www.reddit.com/r/AmItheAsshole/comments/drz8p4/aita_for_refusing_to_bring_my_kids_to_family/",
+                    "created": 1573015834
+                },
+                {
+                    "created_utc": 1572994339,
+                    "score": 1,
+                    "title": "BUSTED: ABC News Spiked Epstein Story",
+                    "url": "https://www.youtube.com/watch?v=7rb8C9spcbc",
+                    "created": 1573012339
+                },
+                {
+                    "created_utc": 1572987610,
+                    "score": 1,
+                    "title": "Choosing a Walther",
+                    "url": "https://www.reddit.com/r/LouderWithCrowder/comments/ds5h8i/choosing_a_walther/",
+                    "created": 1573005610
+                },
+                {
+                    "created_utc": 1572982965,
+                    "score": 1,
+                    "title": "John McCain 2.0 aka Dan Crenshaw is now attacking the 1st Amendment",
+                    "url": "https://www.reddit.com/r/LouderWithCrowder/comments/ds4dx7/john_mccain_20_aka_dan_crenshaw_is_now_attacking/",
+                    "created": 1573000965
+                },
+                {
+                    "created_utc": 1572978855,
+                    "score": 1,
+                    "title": "As drug cartels terrorize Mexico, Democrats continue pushing for open borders",
+                    "url": "https://noqreport.com/2019/11/05/drug-cartels-terrorize-mexico-democrats-continue-pushing-open-borders/",
+                    "created": 1572996855
+                },
+                {
+                    "created_utc": 1572973011,
+                    "score": 1,
+                    "title": "Roger Stone Trial, Day 1 - Milo",
+                    "url": "https://freespeech.tv/blog/donald-trumps-ultimate-test",
+                    "created": 1572991011
+                }
+            ],
+            "comments": [
+                {
+                    "body": "&gt; Those would never get through any court in Norway. That is why we have the three pillars of democracy. And this would cause outrage in public and the press would never shut up about it.\n\nYou are hoping that will always be the case. There is plenty that happens in all courts already that sparks public and media outrage.\n\n&gt;  This man that they interview clearly has biased views on Nazis and history in general. He says that Nazi-Germany invaded Norway in order to save it from the Allies, and he says that the Holocoaust was a myth just to name a few examples. \n\nSo because you don't agree with how that guy thinks, it is totally fine they imprisoned him on a law that was warped and bent until it fit? You think that's acceptable?\n\n&gt; Banning ... speech is not the same as abolishing free speech. \n\nYes, yes it is. \n\nOh and thanks for mentioning the free speech index, that was an absolutely hilarious read. Obviously totally opinionated and biased.",
+                    "created_utc": 1573001707,
+                    "score": 1,
+                    "created": 1573019707
+                },
+                {
+                    "body": "Beautiful!",
+                    "created_utc": 1573001655,
+                    "score": 1,
+                    "created": 1573019655
+                },
+                {
+                    "body": "I think that these SJWs are beyond moronic and know that the 1st amendment needs to be protected \\u2026 and whenever someone approaches me to take a survey, I turn them down 100%of the time.",
+                    "created_utc": 1573001159,
+                    "score": 1,
+                    "created": 1573019159
+                },
+                {
+                    "body": "&gt;'fuck the government, they must be mental!' - Hate speech towards disability, imprison and fine.  \n&gt;  \n&gt;'We want stronger border control' - Hate speech towards anyone not Norwegan.  \n&gt;  \n&gt;'Sorry sir could I get past' - Hate speech towards transgender.\n\nThose would never get through any court in Norway. That is why we have the three pillars of democracy. And this would cause outrage in public and the press would never shut up about it.\n\n[NordicResistanceMovement.org](https://NordicResistanceMovement.org) is not a good source of unbiased news. This is a one sided article wich interviews one man, and no one else. This man that they interview clearly has biased views on Nazis and history in general. He says that Nazi-Germany invaded Norway in order to save it from the Allies, and he says that the Holocoaust was a myth just to name a few examples. \n\n&gt;Weird, because the only people right now who find it acceptable to shout slurs and accusations on race are the exact same people on the left who want to abolish free speech\n\nBanning hate speech is not the same as abolishing free speech. If that was the case Norway would score lower than America on free speech indexes, which it doesn't.",
+                    "created_utc": 1573001077,
+                    "score": 1,
+                    "created": 1573019077
+                },
+                {
+                    "body": "&gt; Then, I remember that he literally defended pedophilia\n\nCan you provide a source on that for me?",
+                    "created_utc": 1573000717,
+                    "score": 1,
+                    "created": 1573018717
+                },
+                {
+                    "body": "of course it does.  just that the definition is subjective, not objective.  it's anything that's severely offensive.\n\nin contrast, there are actual objective standards for other types of unlawful speech (solicitation, conspiracy, incitement, assault, defamation, clearance breaches)",
+                    "created_utc": 1573000648,
+                    "score": 1,
+                    "created": 1573018648
+                },
+                {
+                    "body": "More choice too.",
+                    "created_utc": 1573000561,
+                    "score": 1,
+                    "created": 1573018561
+                },
+                {
+                    "body": "My brother and my mom are super into Colbert and God-King John Oliver. They're getting really annoying with how out of touch from reality they are.",
+                    "created_utc": 1573000384,
+                    "score": 1,
+                    "created": 1573018384
+                },
+                {
+                    "body": "&gt; 1. The Professor threatened to blocked Michael from advancing further into tournaments because Michael would not agree or conform to the Professors bias.\n\nNo, we see that Michael refused to alter his argument. Other students agree with the flaws in his argument too. The Professor doesn't want him to conform to the \"bias\", that was a counter-argument he was likely to encounter at the tournament.\n\n&gt; 2. The Professor disrespected Michael, multiple times. Insulting his character and swearing at him directly, as Michael remained calm and composed, almost submissively.\n\nHe says things like \"WTF does that mean.\" **This just in: Some professors swear.** College is for adults, it's not like a 2nd grade teacher is swearing.\n\n&gt; if ANYONE believes this bullshit about the Professor playing Devils Advocate\n\nAh, I see, you made up your mind without all of the evidence...",
+                    "created_utc": 1573000002,
+                    "score": 1,
+                    "created": 1573018002
+                },
+                {
+                    "body": "&gt;Good grief, this is not good work. So first, you need to explain what premises you think are flawed. I have no idea what you'r on about because you are vague and elide questions that attempt to clarify your position. You also have incorrectly said that my assertion doesn't logically follow from my premises. Of course it logically follows. My premises include: that moral degradation is the opposite of a benefit, that pleasure's value is context dependent, the context of this specific pleasure is rape. (I've also noted, from the beginning that even a utilitarian that the pleasure counts as a positive it is still outweighed by the negatives.)\n\nI don't know how I could have made it more simplified. Your premise that because somebody has degraded themselves as a human that they cannot qualify for any benefits is flawed. You can receive a benefit in the form of sexual pleasure whilst also degrade your value as a human being. This is literally word for word what I said. A rapist can value the pleasure they get more than they value their existence as a human.\n\n&gt; Do you disagree because you think pleasure is intrinsically good AND that it overrides the negatives of being a rapist?\n\nNo. I've already explained that a benefit doesn't have to override the negatives in order to qualify as a benefit. You're thinking of \"net benefit\". Have you not heard of a cost:benefit analysis?\n\n&gt; Tell you what, let's both do each other the courtesy of only claiming something is illogical if it violates one of the common formal fallacies that everyone knows, like creating a false syllogism, or presenting a false choice. Disagreeing with a premise, however, is not cause for an accusation of illogical.\n\nWell, you presented a false choice. I don't \"disagree\" that you can't simultaneously benefit from something whilst also degrading your value as a human. The two things are not mutually exclusive.\n\n&gt; Are you taking a utilitarian view of morality?\n&gt; or\n&gt; Are you describing the rapist's personal position?\n\nWe are talking about any benefits gained or experienced by the individual, so how could we be talking about anything other than their personal position? In any case, what does the moral value of pleasure even have to do with anything? The pleasurable act may be immoral, but to the rapist it doesn't matter; to them it's still a benefit.",
+                    "created_utc": 1572999611,
+                    "score": 1,
+                    "created": 1573017611
+                }
+            ]
+        }
+    ],
+    [
+        "metacanada",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001455,
+                    "score": 1,
+                    "title": "UK National Health Service to Deny Treatment to \\u2018Racists\\u2019 and \\u2018Sexists\\u2019",
+                    "url": "https://summit.news/2019/11/05/uk-national-health-service-to-deny-treatment-to-racists-and-sexists/",
+                    "created": 1573019455
+                },
+                {
+                    "created_utc": 1573001163,
+                    "score": 1,
+                    "title": "Paul Joseph Watson on Twitter: \"A National Health Service trust in the UK has announced that it will deny treatment to patients it deems are \\u2018racists\\u2019 or \\u2018sexists\\u2019. First it was social media, then it was bank accounts &amp;amp; mortgages. Now it\\u2019s deplatforming people from hospital treatment.",
+                    "url": "https://mobile.twitter.com/PrisonPlanet/status/1191780865023582209",
+                    "created": 1573019163
+                },
+                {
+                    "created_utc": 1573001047,
+                    "score": 1,
+                    "title": "Slain U.S. citizens were part of Mormon offshoot with sordid history",
+                    "url": "https://www.nbcnews.com/news/us-news/slain-u-s-citizens-were-part-mormon-offshoot-sordid-history-n1076776",
+                    "created": 1573019047
+                },
+                {
+                    "created_utc": 1572999740,
+                    "score": 1,
+                    "title": "Tax the rich!",
+                    "url": "https://www.reddit.com/r/metacanada/comments/ds87ox/tax_the_rich/",
+                    "created": 1573017740
+                },
+                {
+                    "created_utc": 1572999692,
+                    "score": 1,
+                    "title": "Infinite Statagems",
+                    "url": "https://i.redd.it/z14k9d56myw31.jpg",
+                    "created": 1573017692
+                },
+                {
+                    "created_utc": 1572999476,
+                    "score": 1,
+                    "title": "The LGBT rainbow poppy",
+                    "url": "https://www.thesun.co.uk/news/10283341/lgbt-rainbow-poppy-remembrance-day/",
+                    "created": 1573017476
+                },
+                {
+                    "created_utc": 1572998765,
+                    "score": 1,
+                    "title": "This is the POS that Justin tried getting out from being prosecuted: Witness was offered $10M to change testimony, SNC-Lavalin trial hears",
+                    "url": "https://nationalpost.com/news/local-news/snc-lavalin-witness-was-offered-10m-to-change-testimony-trial-hears/wcm/a1a81e7b-bf83-4c7a-9eb5-5bd97a55667e",
+                    "created": 1573016765
+                },
+                {
+                    "created_utc": 1572998725,
+                    "score": 1,
+                    "title": "Sure, mass immigration is bad and SJW are crazy. But don\\u2019t go to the other extreme guys...",
+                    "url": "https://i.redd.it/tgct19sajyw31.png",
+                    "created": 1573016725
+                },
+                {
+                    "created_utc": 1572998585,
+                    "score": 1,
+                    "title": "Sure, mass immigration is bad and SJW are crazy. But don\\u2019t go to the other extreme guys...",
+                    "url": "https://i.redd.it/4ne1rvsviyw31.png",
+                    "created": 1573016585
+                },
+                {
+                    "created_utc": 1572996800,
+                    "score": 1,
+                    "title": "Despicable Remembrance Day Display at a NS Elementary School",
+                    "url": "https://i.redd.it/csulzhvjdyw31.jpg",
+                    "created": 1573014800
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Next",
+                    "created_utc": 1573001735,
+                    "score": 1,
+                    "created": 1573019735
+                },
+                {
+                    "body": "\"gangs\"  \n\n\nyou mean caliphates...",
+                    "created_utc": 1573001714,
+                    "score": 1,
+                    "created": 1573019714
+                },
+                {
+                    "body": "That's actually a good idea..!\n\nMaybe we could start with a flair?\n\nCould we also have a \"Toronto Violence\" flair?\n\nhaha!",
+                    "created_utc": 1573001702,
+                    "score": 1,
+                    "created": 1573019702
+                },
+                {
+                    "body": "We ought to just demand the same shit that Quebec demands. If we don't get it, then fuck the confederation.",
+                    "created_utc": 1573001685,
+                    "score": 1,
+                    "created": 1573019685
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1573001632,
+                    "score": 1,
+                    "created": 1573019632
+                },
+                {
+                    "body": "Vote PPC it's the only LOGICAL choice.",
+                    "created_utc": 1573001610,
+                    "score": 1,
+                    "created": 1573019610
+                },
+                {
+                    "body": "haha we should have Meta Darwin Awards!",
+                    "created_utc": 1573001569,
+                    "score": 1,
+                    "created": 1573019569
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1573001516,
+                    "score": 1,
+                    "created": 1573019516
+                },
+                {
+                    "body": "There's no such thing as private communications on a broadcast medium. The internet was designed as a broadcast medium - encryption is obfuscation, not privacy. If you want privacy, don't use the internet.",
+                    "created_utc": 1573001458,
+                    "score": 1,
+                    "created": 1573019458
+                },
+                {
+                    "body": "What part of Mormonism *doesn't* end up being linked back to its sordid history?",
+                    "created_utc": 1573001399,
+                    "score": 1,
+                    "created": 1573019399
+                }
+            ]
+        }
+    ],
+    [
+        "newpatriotism",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572963555,
+                    "score": 1,
+                    "title": "Schiff: Trump betrayed America. Soon the public will hear from patriots who defended it.",
+                    "url": "https://www.usatoday.com/story/opinion/2019/11/05/impeachment-trump-redirected-foreign-policy-personal-benefit-column/4159426002/",
+                    "created": 1572981555
+                },
+                {
+                    "created_utc": 1572962817,
+                    "score": 1,
+                    "title": "The Looser a State's Gun Laws, the More Mass Shootings It Has",
+                    "url": "https://www.wired.com/story/the-looser-a-states-gun-laws-the-more-mass-shootings-it-has/",
+                    "created": 1572980817
+                },
+                {
+                    "created_utc": 1572962751,
+                    "score": 1,
+                    "title": "Defying Trump, governors who represent over half the U.S. population pledge to uphold Paris climate agreement",
+                    "url": "https://www.newsweek.com/trump-paris-climate-change-agreement-governors-republican-democrat-1469769",
+                    "created": 1572980751
+                },
+                {
+                    "created_utc": 1572880944,
+                    "score": 358,
+                    "title": "Is there a protest network in place in case of obvious election interference?",
+                    "url": "https://www.reddit.com/r/IronFrontUSA/comments/drhdoy/is_there_a_protest_network_in_place_in_case_of/",
+                    "created": 1572898944
+                },
+                {
+                    "created_utc": 1572771667,
+                    "score": 276,
+                    "title": "Public Safety Alert",
+                    "url": "https://i.redd.it/3tjck0tvvew31.jpg",
+                    "created": 1572789667
+                },
+                {
+                    "created_utc": 1572756322,
+                    "score": 4,
+                    "title": "The Edge of Impeachment, starring Donnie the Russian bear.",
+                    "url": "https://i.redd.it/9yh6wy7hiew31.png",
+                    "created": 1572774322
+                },
+                {
+                    "created_utc": 1572749669,
+                    "score": 164,
+                    "title": "All for you...",
+                    "url": "https://i.redd.it/bk6pwqhpydw31.png",
+                    "created": 1572767669
+                },
+                {
+                    "created_utc": 1572747092,
+                    "score": 1106,
+                    "title": "\"Whimpering like a dog!\"",
+                    "url": "https://i.imgur.com/mBzU9zF.jpg",
+                    "created": 1572765092
+                },
+                {
+                    "created_utc": 1572724213,
+                    "score": 367,
+                    "title": "Spare Us From the Vichy Republicans",
+                    "url": "https://www.commondreams.org/views/2019/11/02/spare-us-vichy-republicans",
+                    "created": 1572742213
+                },
+                {
+                    "created_utc": 1572564059,
+                    "score": 19,
+                    "title": "Republicans Are Talking 'Civil War' Because They Don't Have Any Defense for the President",
+                    "url": "https://www.yahoo.com/lifestyle/republicans-talking-civil-war-because-200300773.html",
+                    "created": 1572582059
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Trump and the Republicans who sold their souls to the devil will feel the pain their decisions caused this beautiful democracy our forefathers created.",
+                    "created_utc": 1572994737,
+                    "score": 1,
+                    "created": 1573012737
+                },
+                {
+                    "body": "Glad to see Texas on....\n\n\nGoddamn you, Greg Abbott. You spineless, pandering asshat.",
+                    "created_utc": 1572987903,
+                    "score": 1,
+                    "created": 1573005903
+                },
+                {
+                    "body": "Just wondering, is a Trump victory counted as election inference.  I'm thinking those Trump voters are heavily armed and military veterans.   We probably shouldn't mess with them.",
+                    "created_utc": 1572985719,
+                    "score": 1,
+                    "created": 1573003719
+                },
+                {
+                    "body": "That's fine, I think that's irrelevant, though since the link I shared is by state and also includes mass shooting into the statistics.",
+                    "created_utc": 1572985376,
+                    "score": 1,
+                    "created": 1573003376
+                },
+                {
+                    "body": "Trump- The criminal of our time.",
+                    "created_utc": 1572985066,
+                    "score": 1,
+                    "created": 1573003066
+                },
+                {
+                    "body": "Yes, but this article and study is specifically about mass shootings. The other data was not included.",
+                    "created_utc": 1572984238,
+                    "score": 1,
+                    "created": 1573002238
+                },
+                {
+                    "body": "I mean, this is based on an actual study of data on mass shootings. If you are going to say the study is incorrect, the bar is a lot higher than a Wikipedia link.\n\n [https://www.bmj.com/content/364/bmj.l542](https://www.bmj.com/content/364/bmj.l542)",
+                    "created_utc": 1572984183,
+                    "score": 1,
+                    "created": 1573002183
+                },
+                {
+                    "body": "Names of the participants:\n\n&gt; Governors who form the U.S. Climate Alliance are from California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Jersey, New Mexico, New York, North Carolina, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, Washington, and Wisconsin.\n\n&gt; The vast majority of those are Democrats with the exception of Maryland's Gov. Larry Hogan and Massachusetts' Gov. Charlie Baker, who are both Republicans.\n\n&gt; Puerto Rico, which is an American territory but not a state, is also listed as a member of the alliance though the governor who signed up, Ricardo Rossell\\u00f3 of the New Progressive Party, resigned from his position in August.",
+                    "created_utc": 1572982294,
+                    "score": 1,
+                    "created": 1573000294
+                },
+                {
+                    "body": "Good bot.",
+                    "created_utc": 1572981754,
+                    "score": 1,
+                    "created": 1572999754
+                },
+                {
+                    "body": "New best angle for Trump. He looks awful.",
+                    "created_utc": 1572980857,
+                    "score": 1,
+                    "created": 1572998857
+                }
+            ]
+        }
+    ],
+    [
+        "paleoconservative",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572729139,
+                    "score": 1,
+                    "title": "Groyper wars!!!",
+                    "url": "https://www.reddit.com/r/paleoconservative/comments/dqqjy5/groyper_wars/",
+                    "created": 1572747139
+                },
+                {
+                    "created_utc": 1572668698,
+                    "score": 1,
+                    "title": "This all souls day -- Let us recall The Sky King -- Long may he inspire us all.",
+                    "url": "https://www.bitchute.com/video/bV8kCIk2Ve8T/",
+                    "created": 1572686698
+                },
+                {
+                    "created_utc": 1572649982,
+                    "score": 1,
+                    "title": "Warren Releases $52 Trillion 'Medicare For All' Funded By Unicorn Farts",
+                    "url": "https://thefederalist.com/2019/11/01/warren-releases-52-trillion-medicare-for-all-plan-funded-by-unicorn-farts/",
+                    "created": 1572667982
+                },
+                {
+                    "created_utc": 1572580049,
+                    "score": 1,
+                    "title": "Telling the Truth Has Become an Anti-American Act",
+                    "url": "http://www.unz.com/item/telling-the-truth-has-become-an-anti-american-act/?fbclid=IwAR1d1hFGouzXYsJcrx7k67W80ZjiK3XNUduyW3R7CLhw4T90tu89nOoyD0Q",
+                    "created": 1572598049
+                },
+                {
+                    "created_utc": 1572471021,
+                    "score": 1,
+                    "title": "Don Blankenship Declares for Constitution Party Presidential Nomination",
+                    "url": "https://ballot-access.org/2019/10/20/don-blankenship-speaks-at-constitution-party-national-committee-meeting/",
+                    "created": 1572489021
+                },
+                {
+                    "created_utc": 1572199559,
+                    "score": 1,
+                    "title": "SJW YA Authors Object to 'Clean Teen' Fiction",
+                    "url": "https://pjmedia.com/trending/sjw-ya-authors-object-to-clean-teen-fiction/",
+                    "created": 1572217559
+                },
+                {
+                    "created_utc": 1572130395,
+                    "score": 1,
+                    "title": "The Battle is against Spiritual Evil -- Get off my lawn -- Global Nuclear Warfare Version.",
+                    "url": "https://www.bitchute.com/video/fbUY73trWEzp/",
+                    "created": 1572148395
+                },
+                {
+                    "created_utc": 1571442589,
+                    "score": 1,
+                    "title": "Geothermal/Renewables for a New Golden Age | When you have a super volcano",
+                    "url": "https://www.bitchute.com/video/FSexUPj3WMon/?list=notifications&amp;randomize=false",
+                    "created": 1571460589
+                },
+                {
+                    "created_utc": 1571441419,
+                    "score": 1,
+                    "title": "Geothermal/Renewables for a New Golden Age | When you have a super volcano | Use it.",
+                    "url": "https://www.bitchute.com/video/FSexUPj3WMon/",
+                    "created": 1571459419
+                },
+                {
+                    "created_utc": 1571352794,
+                    "score": 1,
+                    "title": "Slave State Honored by United Nations",
+                    "url": "https://www.powerlineblog.com/archives/2019/10/slave-state-honored-by-united-nations.php",
+                    "created": 1571370794
+                }
+            ],
+            "comments": [
+                {
+                    "body": "[removed]",
+                    "created_utc": 1568872114,
+                    "score": 1,
+                    "created": 1568890114
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1567034572,
+                    "score": 1,
+                    "created": 1567052572
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1566857195,
+                    "score": 1,
+                    "created": 1566875195
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1563450939,
+                    "score": 1,
+                    "created": 1563468939
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1563119112,
+                    "score": 1,
+                    "created": 1563137112
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1562225105,
+                    "score": 1,
+                    "created": 1562243105
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1561412811,
+                    "score": 1,
+                    "created": 1561430811
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1559211803,
+                    "score": 1,
+                    "created": 1559229803
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1557936489,
+                    "score": 1,
+                    "created": 1557954489
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1554005958,
+                    "score": 1,
+                    "created": 1554023958
+                }
+            ]
+        }
+    ],
+    [
+        "republican",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573000049,
+                    "score": 1,
+                    "title": "Planned Parenthood CEO: A simple Google search would have stopped Daleiden and CMP",
+                    "url": "https://www.liveaction.org/news/planned-parenthood-google-daleiden-cmp/",
+                    "created": 1573018049
+                },
+                {
+                    "created_utc": 1572998135,
+                    "score": 1,
+                    "title": "The Russian Mueller report",
+                    "url": "https://www.reddit.com/r/Republican/comments/ds7vai/the_russian_mueller_report/",
+                    "created": 1573016135
+                },
+                {
+                    "created_utc": 1572996504,
+                    "score": 1,
+                    "title": "hEy EvErYoNe GuEsS wHaT tHe ScHoOl BoArD iS sMoKiNg",
+                    "url": "https://www.reddit.com/r/Republican/comments/ds7ing/hey_everyone_guess_what_the_school_board_is/",
+                    "created": 1573014504
+                },
+                {
+                    "created_utc": 1572994456,
+                    "score": 1,
+                    "title": "Massacre in Mexico 9 Women and Children Murdered",
+                    "url": "https://newrightnetwork.com/2019/11/mexico-9-women-children-murdered.html/",
+                    "created": 1573012456
+                },
+                {
+                    "created_utc": 1572994094,
+                    "score": 1,
+                    "title": "Proof that the media is biased and is hiding everything under the sun when it comes to the democrats",
+                    "url": "https://www.reddit.com/r/Republican/comments/ds6z42/proof_that_the_media_is_biased_and_is_hiding/",
+                    "created": 1573012094
+                },
+                {
+                    "created_utc": 1572992903,
+                    "score": 1,
+                    "title": "Gymnast Shawn Johnson East and husband welcome baby girl: \\u2018You are our everything\\u2019",
+                    "url": "https://www.liveaction.org/news/shawn-johnson-east-baby-girl/",
+                    "created": 1573010903
+                },
+                {
+                    "created_utc": 1572990776,
+                    "score": 1,
+                    "title": "2019 General Election: It\\u2019s Time to Go Vote!",
+                    "url": "https://newrightnetwork.com/2019/11/2019-general-election-go-vote.html/",
+                    "created": 1573008776
+                },
+                {
+                    "created_utc": 1572990775,
+                    "score": 1,
+                    "title": "Official: An Update on Military Readiness",
+                    "url": "https://newrightnetwork.com/2019/11/update-military-readiness.html/",
+                    "created": 1573008775
+                },
+                {
+                    "created_utc": 1572988000,
+                    "score": 1,
+                    "title": "Trump economy remains strong, much to Democrats\\u2019 dismay",
+                    "url": "https://nypost.com/2019/11/04/trump-economy-remains-strong-much-to-democrats-dismay/",
+                    "created": 1573006000
+                },
+                {
+                    "created_utc": 1572987062,
+                    "score": 1,
+                    "title": "CATASTROPHIC MELTDOWN TRIGGERED BY BASEBALL PLAYER IN MAGA HAT",
+                    "url": "https://www.youtube.com/watch?v=QznVU9iHUfQ&amp;feature=share",
+                    "created": 1573005062
+                }
+            ],
+            "comments": [
+                {
+                    "body": "If you\\u2019re an expat you can still vote. America\\u2019s foreign policies still affect you.",
+                    "created_utc": 1573001443,
+                    "score": 1,
+                    "created": 1573019443
+                },
+                {
+                    "body": "For most degrees, college is all about getting that line on your resume. I went through 4 years of college and only got 2 years of reasonable content. The rest was nonsense classes. They make you take nonsense classes that are only in demand because some asshole made it a requirement.\n\nI wish people got serious about 2 year colleges or certifications. It should be just as good.",
+                    "created_utc": 1573000953,
+                    "score": 1,
+                    "created": 1573018953
+                },
+                {
+                    "body": "Can someone explain to me what happened? Having a hard time understanding from the article.",
+                    "created_utc": 1572999788,
+                    "score": 1,
+                    "created": 1573017788
+                },
+                {
+                    "body": "As a former college instructor, I  can tell you its a sad state of affairs to see students working a full time job while taking a full load of college courses. These students don't have enough time to study and do homework and wind up failing or just barely passing. Add to that, these students have been told it's in their best interest to take out a student loan so they can earn their degree in four years or less. However, the truth is a student taking out a student loan is in the school's best interest because of the massive cash flow student loans generate. \n\nI advise students to take out loans for their education only if they are in a STEM or similar program where there is high demand for graduates. Otherwise work full time and go to school part time while paying cash for the courses they do take. And yes, it will mean taking longer than four years to finish but at least they won't have crushing student loan debt.",
+                    "created_utc": 1572998511,
+                    "score": 1,
+                    "created": 1573016511
+                },
+                {
+                    "body": "But you guys we have no proof that socialism doesnt work russia and China did it wrong!",
+                    "created_utc": 1572998215,
+                    "score": 1,
+                    "created": 1573016215
+                },
+                {
+                    "body": "If only conservatives could move TO California in droves.",
+                    "created_utc": 1572997858,
+                    "score": 1,
+                    "created": 1573015858
+                },
+                {
+                    "body": "In the movie he didn't go to college and became rich",
+                    "created_utc": 1572997359,
+                    "score": 1,
+                    "created": 1573015359
+                },
+                {
+                    "body": "Don't kill me I don't want to get yeeted",
+                    "created_utc": 1572996530,
+                    "score": 1,
+                    "created": 1573014530
+                },
+                {
+                    "body": "You still have to learn the material.",
+                    "created_utc": 1572996094,
+                    "score": 1,
+                    "created": 1573014094
+                },
+                {
+                    "body": "Unfortunately for Amy Robach, she will kill herself in an apparent suicide later this week, two bullets to the back of the head. Tragic",
+                    "created_utc": 1572994208,
+                    "score": 1,
+                    "created": 1573012208
+                }
+            ]
+        }
+    ],
+    [
+        "rightwinglgbt",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572999855,
+                    "score": 1,
+                    "title": "Thanks Daily Wire, Very Cool",
+                    "url": "https://www.reddit.com/r/RightwingLGBT/comments/ds88j2/thanks_daily_wire_very_cool/",
+                    "created": 1573017855
+                },
+                {
+                    "created_utc": 1572996998,
+                    "score": 1,
+                    "title": "\\ud83e\\udd21\\ud83c\\udf0e | Birth coach is 'hounded out' of industry charity Doula UK after transgender activists branded her Facebook message claiming only women can have babies 'offensive'",
+                    "url": "https://www.dailymail.co.uk/news/article-7643251/Charity-hounds-birth-coach-post-saying-women-children.html",
+                    "created": 1573014998
+                },
+                {
+                    "created_utc": 1572995848,
+                    "score": 1,
+                    "title": "\"Transphobic brigading\" aka people who use facts and logical thinking",
+                    "url": "https://i.redd.it/o7a3cznqayw31.jpg",
+                    "created": 1573013848
+                },
+                {
+                    "created_utc": 1572988895,
+                    "score": 1,
+                    "title": "Now we see the true colors of the agenda!",
+                    "url": "https://i.redd.it/44pvkwkniww31.jpg",
+                    "created": 1573006895
+                },
+                {
+                    "created_utc": 1572988745,
+                    "score": 1,
+                    "title": "UK Muslims Climb To The Top Of The Progressive Stack",
+                    "url": "https://i.redd.it/7sn2lnempxw31.jpg",
+                    "created": 1573006745
+                },
+                {
+                    "created_utc": 1572987439,
+                    "score": 1,
+                    "title": "My house burned down.",
+                    "url": "https://www.reddit.com/r/RightwingLGBT/comments/ds5fv7/my_house_burned_down/",
+                    "created": 1573005439
+                },
+                {
+                    "created_utc": 1572985587,
+                    "score": 1,
+                    "title": "Jim Jones / Have We Forgotten? // I'm sharing the conclusion I came to after learning about these events. What do you think?",
+                    "url": "https://youtu.be/fKg6qUGFvGg",
+                    "created": 1573003587
+                },
+                {
+                    "created_utc": 1572980649,
+                    "score": 1,
+                    "title": "YouTube BANNED This Doctor\\u2019s Video. Here\\u2019s Why",
+                    "url": "https://www.youtube.com/watch?v=YxQTIZD58C0",
+                    "created": 1572998649
+                },
+                {
+                    "created_utc": 1572977713,
+                    "score": 1,
+                    "title": "O'Keefe Bombshell: ABC Host Says Network Spiked Epstein Story in 2016",
+                    "url": "https://www.newsbusters.org/blogs/nb/scott-whitlock/2019/11/05/okeefe-bombshell-abc-host-says-net-spiked-epstein-story-2016-had",
+                    "created": 1572995713
+                },
+                {
+                    "created_utc": 1572974882,
+                    "score": 1,
+                    "title": "Penis",
+                    "url": "https://www.reddit.com/r/RightwingLGBT/comments/ds2fjj/penis/",
+                    "created": 1572992882
+                }
+            ],
+            "comments": [
+                {
+                    "body": "\"Privelage\" sounds like a French luxury goods store.",
+                    "created_utc": 1573001730,
+                    "score": 1,
+                    "created": 1573019730
+                },
+                {
+                    "body": "Last time i took one of these tests the questions were simplified versions of questions that arent just yes or no",
+                    "created_utc": 1573001322,
+                    "score": 1,
+                    "created": 1573019322
+                },
+                {
+                    "body": "You can skip to the beginning of a livestream on youtube, even if it\\u2019s broadcasting at that moment.",
+                    "created_utc": 1573001083,
+                    "score": 1,
+                    "created": 1573019083
+                },
+                {
+                    "body": "Talk about plea bargaining your way out of everything given how much you can dish.",
+                    "created_utc": 1573001071,
+                    "score": 1,
+                    "created": 1573019071
+                },
+                {
+                    "body": "This just in: preferences are transphobic.",
+                    "created_utc": 1573000927,
+                    "score": 1,
+                    "created": 1573018927
+                },
+                {
+                    "body": "Wgat did the commebt say",
+                    "created_utc": 1573000899,
+                    "score": 1,
+                    "created": 1573018899
+                },
+                {
+                    "body": "No all bisexuals are transphobic.",
+                    "created_utc": 1573000861,
+                    "score": 1,
+                    "created": 1573018861
+                },
+                {
+                    "body": "I dont like people off of looks. If ur trans so fucking what if you make it your entire personality then go fuck yourself.",
+                    "created_utc": 1573000843,
+                    "score": 1,
+                    "created": 1573018843
+                },
+                {
+                    "body": "I'm confused. Do they want to change LGBT to TQBLG? Does that stand for Trans Queer Bisexual Lesbian Gay, or something else? \n\nI find it strange that this person is saying they're so done with us cis gays, but their solution is to reorder an acronym, but still keep the cis gay/bi people in it. If you hate us that much, don't include us in your community. That just shows how much they rely on us.",
+                    "created_utc": 1573000738,
+                    "score": 1,
+                    "created": 1573018738
+                },
+                {
+                    "body": "Sometimes",
+                    "created_utc": 1573000645,
+                    "score": 1,
+                    "created": 1573018645
+                }
+            ]
+        }
+    ],
+    [
+        "shitpoliticssays",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572999927,
+                    "score": 1,
+                    "title": "/r/politics User on his Trump supporting family \"I have family like that. I cut them off. I do not tolerate cults. It's tough though.\" [sh]",
+                    "url": "https://www.reddit.com/r/politics/comments/ds22xe/poll_62_of_trump_supporters_say_nothing_he_could/f6mjix0/",
+                    "created": 1573017927
+                },
+                {
+                    "created_utc": 1572999656,
+                    "score": 1,
+                    "title": "Oh fuck yea. I'll proudly serve the bureau of mayonnaise affairs until whitey has been properly dealt with. Then, at the end when it finally becomes my turn, I will proudly salute the firing squad knowing that I can rest easy knowing that mayo was cided. [+3]",
+                    "url": "https://www.reddit.com/r/MoreTankieChapo/comments/drfmbm/native_american_land_lost_to_colonialism_over_the/f6l3pu8/",
+                    "created": 1573017656
+                },
+                {
+                    "created_utc": 1572999409,
+                    "score": 1,
+                    "title": "\"He won\\u2019t be removed because Republicans are all in on the criminal conspiracies and will not budge no matter what. The only thing that we can do is vote and give the Dems control of all 3 branches. If that doesn\\u2019t happen, then revolution might be just around the corner.\" r/politics [SH]",
+                    "url": "https://www.reddit.com/r/politics/comments/ds4w6p/the_guy_trump_cited_as_proof_there_wasnt_a_quid/f6nfg0t?utm_medium=android_app&amp;utm_source=share",
+                    "created": 1573017409
+                },
+                {
+                    "created_utc": 1572997457,
+                    "score": 1,
+                    "title": "Dumbest thing r/politics has done today (explanation in comments)",
+                    "url": "https://i.gyazo.com/159ad987a8f5eadcf5c33ab084c9d142.png",
+                    "created": 1573015457
+                },
+                {
+                    "created_utc": 1572994762,
+                    "score": 1,
+                    "title": "They enjoyed the spoils of the Greatest Generation's sacrifices and when those ran out they turned to cannibalize their kids' futures. Spoiled rotten, nothing more. + 684",
+                    "url": "https://www.reddit.com/r/news/comments/ds1m4y/millennials_earn_20_less_than_baby_boomers/f6mm9vm/",
+                    "created": 1573012762
+                },
+                {
+                    "created_utc": 1572992050,
+                    "score": 1,
+                    "title": "On conservatives: \"These fuckers hold grudges longer than elephants do, it's astounding how they just harbor bitterness for decades towards people who never did anything wrong.\" [+7] r/OldSchoolCool",
+                    "url": "https://np.reddit.com/r/OldSchoolCool/comments/ds4oa8/jane_fonda_when_she_was_18_years_old_1956/f6ne4kx/?context=3",
+                    "created": 1573010050
+                },
+                {
+                    "created_utc": 1572989336,
+                    "score": 1,
+                    "title": "When a boss forces a hungry employee to throw away food that won't sell rather than let them have it, and can do so because \"property rights\", that is enforced starvation. [+5] - AHS has gone cray cray.",
+                    "url": "https://www.reddit.com/r/AgainstHateSubreddits/comments/dr0yuh/ancaps_are_okay_with_enforced_starvation_so_long/f6ifar5/",
+                    "created": 1573007336
+                },
+                {
+                    "created_utc": 1572987784,
+                    "score": 1,
+                    "title": "[About the Sonora massacre:] \"Tragedy. Yes.Was this some random event where \"very nice Mormons\" were murdered? Hard to say but it sure seems unlikely.\" [+5] /r/exmormon",
+                    "url": "http://np.reddit.com/r/exmormon/comments/ds29n0/z/f6mq8e6",
+                    "created": 1573005784
+                },
+                {
+                    "created_utc": 1572986841,
+                    "score": 1,
+                    "title": "\"The rich are complete psychopathic monsters addicted to power and money with no regard to anything else. Their actions speak. The rich are the mortal enemies of humanity and life on Earth! **The revolution to end all revolutions is coming!**\" [+24]",
+                    "url": "https://www.reddit.com/r/worldnews/comments/ds0lrw/untold_human_suffering_11000_scientists_from/f6mruap?utm_medium=android_app&amp;utm_source=share",
+                    "created": 1573004841
+                },
+                {
+                    "created_utc": 1572984942,
+                    "score": 1,
+                    "title": "Guess the turd doesn\\u2019t fall far from the (Jewish) faggots ass [+3]",
+                    "url": "https://old.reddit.com/r/ShitNeoconsSay/comments/draebu/neocons_this_week/f6ifkr0/",
+                    "created": 1573002942
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Sure is.  \n\n\"Give us complete control of the country or we're gonna start killing people.  Well, not me, but someone else should!\" \n\n Thats how you know you're the good guys, right?",
+                    "created_utc": 1573001711,
+                    "score": 1,
+                    "created": 1573019711
+                },
+                {
+                    "body": "At what point does a population become native?",
+                    "created_utc": 1573001467,
+                    "score": 1,
+                    "created": 1573019467
+                },
+                {
+                    "body": "Your authority is not recognized inside Fort Kickass!",
+                    "created_utc": 1573001459,
+                    "score": 1,
+                    "created": 1573019459
+                },
+                {
+                    "body": "&gt;A nice reminder that these are the fucking psychopaths driving this entire site into the ground.\n\n Honestly, I barely use Reddit anymore,  because almost all subReddits are  infected with  unacceptably high levels of stupidity. The far left views on transgender stuff is a huge example. Even subs like r/okcupid, r/askwomen and r/badscience  have caved to  this by Saying that it is stupid bad people that are attracted to women don\\u2019t want to date transfer women. Their argument is that trans women are women, so it doesn\\u2019t make sense to not include them in the dating pool. Some dude on r/okcupid  said there is no reason that he wouldn\\u2019t date a transgender woman as a straight guy and that there is no reason she should tell him before hand, because their medical issues are none of his business while dating.  I have also seen people criticize guys not wanting to date transgender women with penises, because \\u201cyou are dating a person, not their genitals.\\u201c\n\n The fact that  this site regularly  takes such an asinine position as saying  there is no difference between a woman with a penis in a woman with a vagina shows me it is hardly worth spending my time on these days.",
+                    "created_utc": 1573001457,
+                    "score": 1,
+                    "created": 1573019457
+                },
+                {
+                    "body": "&gt;Considering whats been done to this country since 2016 i think it was a rather measured response.\n\nWhat he really means:\n\n\"Trump should hang for creating a booming economy, recognizing Jerusalem, doing anything at all about illegal immigration, record low unemployment and making democrats cry.\"",
+                    "created_utc": 1573001447,
+                    "score": 1,
+                    "created": 1573019447
+                },
+                {
+                    "body": "Even if the whistleblower testifies it's still here say.",
+                    "created_utc": 1573001089,
+                    "score": 1,
+                    "created": 1573019089
+                },
+                {
+                    "body": "Exactly. Does Europe give land to Italy for the Roman conquests? What about Greece? Does all of western europe become France because of Napoleon's conquests?\n\nDoesn't make sense.",
+                    "created_utc": 1573001049,
+                    "score": 1,
+                    "created": 1573019049
+                },
+                {
+                    "body": "Exactly. Does Europe give land to Italy for the Roman conquests? What about Greece? Does all of western europe become France because of Napoleon's conquests?\n\nDoesn't make sense.",
+                    "created_utc": 1573001042,
+                    "score": 1,
+                    "created": 1573019042
+                },
+                {
+                    "body": "That's what I did to get out of debt.",
+                    "created_utc": 1573001042,
+                    "score": 1,
+                    "created": 1573019042
+                },
+                {
+                    "body": "I believe there was a study done that concluded [those on the Left are more likely to disown family and end friendships](https://www.washingtontimes.com/news/2014/oct/21/liberals-more-likely-conservatives-dump-friend-ove/) over politics.\n\nComment in that article proves my point.\n\n&gt;Yep, that is correct, I don't want any conservatives in my life, and unfriend any that come out of the closet. These are fundamentally bad people; \"we should debate whether this class of human beings has any inherent value and adds anything to this country.\" Unfriending them is nmever much of a loss because as a good person, I have lots more where they came from (friends). They tend to be far lonelier and thus feel the loss more acutely. Oh well.\n\nThese people are insufferable; they are so sure of their moral superiority.",
+                    "created_utc": 1573000967,
+                    "score": 1,
+                    "created": 1573018967
+                }
+            ]
+        }
+    ],
+    [
+        "the_donald",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001757,
+                    "score": 1,
+                    "title": "Fentanyl is a WMD. Time to INVADE the cartels. How many americans can they kill? Answer = more than nukes. #SaddamSaidNoToo",
+                    "url": "https://i.redd.it/ldfsvg42syw31.jpg",
+                    "created": 1573019757
+                },
+                {
+                    "created_utc": 1573001742,
+                    "score": 1,
+                    "title": "What The NY Times thought was important to discuss about the murder of 9 American citizens by the drug cartels. This rivals the Bagdhadi coverage. Unbelievable!",
+                    "url": "https://i.imgur.com/hARXM4o.jpg",
+                    "created": 1573019742
+                },
+                {
+                    "created_utc": 1573001727,
+                    "score": 1,
+                    "title": "\\ud83e\\udd21\\ud83c\\udf0e Strzok's notes were 'really' Pientka's, Pientka's notes were 'really' Strzok's! No seriously, this is what the corrupt prosecutor of Flynn is now claiming.\\ud83e\\udd21\\ud83c\\udf0e",
+                    "url": "https://imgur.com/6RYyIHW",
+                    "created": 1573019727
+                },
+                {
+                    "created_utc": 1573001692,
+                    "score": 1,
+                    "title": "The Big Enchilada (ALEX JONES REMIX)",
+                    "url": "https://youtu.be/JQx0Q-4kpZk",
+                    "created": 1573019692
+                },
+                {
+                    "created_utc": 1573001641,
+                    "score": 1,
+                    "title": "Support Trump 2020",
+                    "url": "https://www.reddit.com/r/The_Donald/comments/ds8lv8/support_trump_2020/",
+                    "created": 1573019641
+                },
+                {
+                    "created_utc": 1573001636,
+                    "score": 1,
+                    "title": "Is it true that Jeffery Epstein didn\\u2019t kill himself?",
+                    "url": "https://www.reddit.com/r/The_Donald/comments/ds8luc/is_it_true_that_jeffery_epstein_didnt_kill_himself/",
+                    "created": 1573019636
+                },
+                {
+                    "created_utc": 1573001627,
+                    "score": 1,
+                    "title": "Do it for the memes!",
+                    "url": "https://i.redd.it/uwqd2p3wryw31.jpg",
+                    "created": 1573019627
+                },
+                {
+                    "created_utc": 1573001586,
+                    "score": 1,
+                    "title": "Don\\u2019t remember hearing of any chick-fil-a stabbings recently",
+                    "url": "https://i.redd.it/dpxdsvysryw31.png",
+                    "created": 1573019586
+                },
+                {
+                    "created_utc": 1573001576,
+                    "score": 1,
+                    "title": "You can vote for whoever you like this special election but we all know who the real winner is today.",
+                    "url": "https://i.redd.it/hwl159zqryw31.png",
+                    "created": 1573019576
+                },
+                {
+                    "created_utc": 1573001571,
+                    "score": 1,
+                    "title": "Nine American Women and Children Massacred by Mexican Drug Cartel, President Trump Offers U.S. Military Assistance to Mexican Government\\u2026.",
+                    "url": "https://theconservativetreehouse.com/2019/11/05/nine-american-women-and-children-massacred-by-mexican-drug-cartel-president-trump-offers-u-s-military-assistance-to-mexican-government/",
+                    "created": 1573019571
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Same. And I\\u2019ve never been polled",
+                    "created_utc": 1573001758,
+                    "score": 1,
+                    "created": 1573019758
+                },
+                {
+                    "body": "**[Content Policy](https://www.redditinc.com/policies/content-policy) Reminder**: Content that \"encourages, glorifies, incites, or calls for [violence](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-post-violent-content)\", or that shares someone's [personal information](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/posting-someones-private-or-personal) is not permitted on The_Donald. Violations may result in T_D or sitewide ban. \n\n**If you see potentially rule breaking content, immediately downvote &amp; report.**\n \n \n**Official The_Donald Discord invite: https://discord.gg/rd3r4N8**\n\n\n---\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*",
+                    "created_utc": 1573001757,
+                    "score": 1,
+                    "created": 1573019757
+                },
+                {
+                    "body": "Yea... get your fuckin ballot box.",
+                    "created_utc": 1573001754,
+                    "score": 1,
+                    "created": 1573019754
+                },
+                {
+                    "body": "What is supposed to be so great about these chicken sandwiches? I don't live around a popeyes.",
+                    "created_utc": 1573001754,
+                    "score": 1,
+                    "created": 1573019754
+                },
+                {
+                    "body": "Tilt it ALL THE WAY back!",
+                    "created_utc": 1573001753,
+                    "score": 1,
+                    "created": 1573019753
+                },
+                {
+                    "body": "He'll be pardoned January 2020 regardless of results of the election.",
+                    "created_utc": 1573001750,
+                    "score": 1,
+                    "created": 1573019750
+                },
+                {
+                    "body": "Ky Gov race is tightening",
+                    "created_utc": 1573001746,
+                    "score": 1,
+                    "created": 1573019746
+                },
+                {
+                    "body": "If he's said it on record, it should be easy to post a link to it instead of a zero-context rant.",
+                    "created_utc": 1573001744,
+                    "score": 1,
+                    "created": 1573019744
+                },
+                {
+                    "body": "**[Content Policy](https://www.redditinc.com/policies/content-policy) Reminder**: Content that \"encourages, glorifies, incites, or calls for [violence](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-post-violent-content)\", or that shares someone's [personal information](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/posting-someones-private-or-personal) is not permitted on The_Donald. Violations may result in T_D or sitewide ban. \n\n**If you see potentially rule breaking content, immediately downvote &amp; report.**\n \n \n**Official The_Donald Discord invite: https://discord.gg/rd3r4N8**\n\n\n---\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*",
+                    "created_utc": 1573001742,
+                    "score": 1,
+                    "created": 1573019742
+                },
+                {
+                    "body": "I need to watch South Park this week.",
+                    "created_utc": 1573001738,
+                    "score": 1,
+                    "created": 1573019738
+                }
+            ]
+        }
+    ],
+    [
+        "thenewright",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001545,
+                    "score": 1,
+                    "title": "What is \\u201cThe New Right\\u201d",
+                    "url": "https://www.reddit.com/r/TheNewRight/comments/ds8l9k/what_is_the_new_right/",
+                    "created": 1573019545
+                },
+                {
+                    "created_utc": 1573001370,
+                    "score": 1,
+                    "title": "Sen. Rand Paul Corrects Reporter: It Is Not Illegal For Media To Name The Whistleblower. If you just remember that most \"journalists\" these days are just democrats with bylines, it all makes sense.",
+                    "url": "https://www.realclearpolitics.com/video/2019/11/05/sen_rand_paul_corrects_reporter_it_is_not_illegal_for_media_to_name_the_whistleblower.html",
+                    "created": 1573019370
+                },
+                {
+                    "created_utc": 1573000337,
+                    "score": 1,
+                    "title": "Delta Airlines 'Proudly' Announces it Will Show In-Flight Movies With Uncensored Gay Sex Scenes",
+                    "url": "https://christiansfortruth.com/delta-airlines-proudly-announces-it-will-allow-in-flight-movies-with-homosexual-sex-scenes/",
+                    "created": 1573018337
+                },
+                {
+                    "created_utc": 1572998896,
+                    "score": 1,
+                    "title": "Does planned parenthood sell arms in relation to a 1080p monitor?",
+                    "url": "https://www.reddit.com/r/TheNewRight/comments/ds80t8/does_planned_parenthood_sell_arms_in_relation_to/",
+                    "created": 1573016896
+                },
+                {
+                    "created_utc": 1572998760,
+                    "score": 1,
+                    "title": "New Name in the Biden Family Corruption Saga: James Biden (Joe's Brother)",
+                    "url": "https://halturnerradioshow.com/index.php/en/news-page/news-nation/new-name-in-the-biden-family-corruption-saga-james-biden-joe-s-brother",
+                    "created": 1573016760
+                },
+                {
+                    "created_utc": 1572998559,
+                    "score": 1,
+                    "title": "Is Q a distraction",
+                    "url": "https://www.reddit.com/r/TheNewRight/comments/ds7yjp/is_q_a_distraction/",
+                    "created": 1573016559
+                },
+                {
+                    "created_utc": 1572994529,
+                    "score": 1,
+                    "title": "Massacre in Mexico 9 Women and Children Murdered",
+                    "url": "https://newrightnetwork.com/2019/11/mexico-9-women-children-murdered.html/",
+                    "created": 1573012529
+                },
+                {
+                    "created_utc": 1572994504,
+                    "score": 1,
+                    "title": "VIDEO: Leaked ABC News Insider Recording EXPOSES #EpsteinCoverup \"We had Clinton, We had Everything\"",
+                    "url": "https://youtu.be/3lfwkTsJGYA",
+                    "created": 1573012504
+                },
+                {
+                    "created_utc": 1572993701,
+                    "score": 1,
+                    "title": "Breaking: Reuters Headline About Border Patrol Shooting was vague",
+                    "url": "http://truthreavels.com/reuters-headline-about-border-patrol-shooting-was-vague/",
+                    "created": 1573011701
+                },
+                {
+                    "created_utc": 1572991541,
+                    "score": 1,
+                    "title": "As a black man, I stand against white genocide",
+                    "url": "https://www.reddit.com/r/TheNewRight/comments/ds6e33/as_a_black_man_i_stand_against_white_genocide/",
+                    "created": 1573009541
+                }
+            ],
+            "comments": [
+                {
+                    "body": "I like my women like my coffee: WITHOUT A PENIS.",
+                    "created_utc": 1573001421,
+                    "score": 1,
+                    "created": 1573019421
+                },
+                {
+                    "body": "No, in the real world they kill babies. The majority of which are black. So, their founder's racist dream came true.",
+                    "created_utc": 1573000847,
+                    "score": 1,
+                    "created": 1573018847
+                },
+                {
+                    "body": "Only one is recognized as a terrorist organization",
+                    "created_utc": 1573000762,
+                    "score": 1,
+                    "created": 1573018762
+                },
+                {
+                    "body": "r/TheRightCantMeme",
+                    "created_utc": 1573000727,
+                    "score": 1,
+                    "created": 1573018727
+                },
+                {
+                    "body": "You\\u2019re a violent, psychopath who has fetish for killing your fellow Americans.  You\\u2019ve vested all your person identity into a vile, little man who has embarrassed your country.  I get why Trump appeals to people like you.  You\\u2019re the lowest denominator of a human.",
+                    "created_utc": 1573000713,
+                    "score": 1,
+                    "created": 1573018713
+                },
+                {
+                    "body": "many believe israel controls our leaders, clips like this doesnt help.",
+                    "created_utc": 1573000291,
+                    "score": 1,
+                    "created": 1573018291
+                },
+                {
+                    "body": " [https://oversight.house.gov/planned-parenthood-fact-v-fiction](https://oversight.house.gov/planned-parenthood-fact-v-fiction)",
+                    "created_utc": 1572999371,
+                    "score": 1,
+                    "created": 1573017371
+                },
+                {
+                    "body": "Sounds like fake news to me",
+                    "created_utc": 1572996947,
+                    "score": 1,
+                    "created": 1573014947
+                },
+                {
+                    "body": "Your post history says otherwise",
+                    "created_utc": 1572996891,
+                    "score": 1,
+                    "created": 1573014891
+                },
+                {
+                    "body": "Never heard of that place",
+                    "created_utc": 1572996760,
+                    "score": 1,
+                    "created": 1573014760
+                }
+            ]
+        }
+    ],
+    [
+        "tuesday",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1573001129,
+                    "score": 1,
+                    "title": "Fewer players, fewer homes: concentration and the new dynamics of housing supply - The Urban Housing Crisis is partly the fault of oligopolic concentration in the home-building industry.",
+                    "url": "https://docs.wixstatic.com/ugd/5fcb6a_38293a75ef124a238571b148b9ddbf69.pdf",
+                    "created": 1573019129
+                },
+                {
+                    "created_utc": 1572992500,
+                    "score": 1,
+                    "title": "Should Monetary Policy Take Inequality and Climate Change into Account?",
+                    "url": "https://www.piie.com/publications/working-papers/should-monetary-policy-take-inequality-and-climate-change-account",
+                    "created": 1573010500
+                },
+                {
+                    "created_utc": 1572992394,
+                    "score": 1,
+                    "title": "US-China Trade War: Both Countries Lose, World Markets Adjust, Others Gain",
+                    "url": "https://www.piie.com/publications/policy-briefs/us-china-trade-war-both-countries-lose-world-markets-adjust-others-gain",
+                    "created": 1573010394
+                },
+                {
+                    "created_utc": 1572991257,
+                    "score": 1,
+                    "title": "Personal Medicine Importation: What are the risks and how can they be mitigated? (Pdf warning)",
+                    "url": "https://www.aei.org/wp-content/uploads/2019/09/Personal-medicine-importation.pdf",
+                    "created": 1573009257
+                },
+                {
+                    "created_utc": 1572982437,
+                    "score": 1,
+                    "title": "The State of State and Local Subsidies to Business",
+                    "url": "https://www.mercatus.org/system/files/thomas_-_policy_brief_-_the_state_of_state_and_local_subsidies_to_business_-_v1.pdf",
+                    "created": 1573000437
+                },
+                {
+                    "created_utc": 1572982367,
+                    "score": 1,
+                    "title": "Do Monetary Policy Announcements Shift Household Expectations?",
+                    "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr897.pdf",
+                    "created": 1573000367
+                },
+                {
+                    "created_utc": 1572981234,
+                    "score": 1,
+                    "title": "The True Cost of Government Shutdowns",
+                    "url": "https://www.hsgac.senate.gov/imo/media/doc/2019-09-17%20PSI%20Staff%20Report%20-%20Government%20Shutdowns.pdf",
+                    "created": 1572999234
+                },
+                {
+                    "created_utc": 1572981057,
+                    "score": 1,
+                    "title": "Exploring Wealth Inequality",
+                    "url": "https://www.cato.org/publications/policy-analysis/exploring-wealth-inequality",
+                    "created": 1572999057
+                },
+                {
+                    "created_utc": 1572980900,
+                    "score": 1,
+                    "title": "Understanding Russia's Intervention in Syria",
+                    "url": "https://www.rand.org/pubs/research_reports/RR3180.html",
+                    "created": 1572998900
+                },
+                {
+                    "created_utc": 1572980641,
+                    "score": 1,
+                    "title": "Implementing Negative Emissions Technologies (NETs)",
+                    "url": "https://www.belfercenter.org/sites/default/files/files/publication/190801-deutch-viewpoint-final.pdf",
+                    "created": 1572998641
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Plot twist: The classified server was in Hillary Clinton's basement all along.",
+                    "created_utc": 1573001752,
+                    "score": 1,
+                    "created": 1573019752
+                },
+                {
+                    "body": "We have somehow slipped into a world of over-the-top modern Westerns.",
+                    "created_utc": 1573001691,
+                    "score": 1,
+                    "created": 1573019691
+                },
+                {
+                    "body": "so now that a quid pro quo is essentially fact what consequences if any will there be for those who are standing by the administration as this drags on?  Im sure the first thing they will change to is they were arguing process and not substance but that is a pretty hollow argument.  A cursory examination of the facts makes it abundantly clear what they are defending even though they are going to great lengths to hide it.",
+                    "created_utc": 1573001477,
+                    "score": 1,
+                    "created": 1573019477
+                },
+                {
+                    "body": "My understanding is that Obama burned a lot of those bridges with Fast and Furious.",
+                    "created_utc": 1573001456,
+                    "score": 1,
+                    "created": 1573019456
+                },
+                {
+                    "body": "Lindsay Graham won't read transcripts of impeachment testimony \n\nhttps://www.axios.com/lindsey-graham-gordon-sondland-ukraine-transcript-427b75e1-af3e-47bd-8590-8fb320738f78.html",
+                    "created_utc": 1573001189,
+                    "score": 1,
+                    "created": 1573019189
+                },
+                {
+                    "body": "Just a friendly reminder to read our [rules and FAQ](https://www.reddit.com/r/tuesday/wiki/faq) before posting!   \n**Rule 1:** Be civil.  \n**Rule 2:** No racism or sexism.    \n**Rule 3:** Stay on topic    \n**Rule 4:** No promotion of leftist or extreme ideologies   \n**Rule 5:** No low quality posts/comments. Politician focused posts are discouraged. *Rule 5 does not apply in Discussion Thread.*  \n**Rule 6:** No extreme partisanship; Talk to people in good faith  \n**Rule 7:** Flairs are mandatory. [Flair Descriptions](https://www.reddit.com/r/tuesday/wiki/textflairs).  \n**Rule 8:** Adhere to [New Moderation Policy](https://www.reddit.com/r/tuesday/comments/9qv8vx/please_read_new_moderation_policy/).  \n**Rule 9:** No Reddit Drama posting or complaining about other subs  \n\n**[Additional Rules apply if the thread is flaired as \"High Quality Only\"](https://www.reddit.com/r/tuesday/comments/bth6y1/why_is_my_post_flaired_as_high_quality_only_and/)**\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/tuesday) if you have any questions or concerns.*",
+                    "created_utc": 1573001129,
+                    "score": 1,
+                    "created": 1573019129
+                },
+                {
+                    "body": "&gt; The Consumer Product Safety Commission (\\u201cCPSC\\u201d) tabled any outstanding decisions regarding the recall of potentially dangerous consumer products, leaving potentially dangerous products on the market and available to consumers. No recalls were posted on the CPSC website during the FY 2019 shutdown. A recall notice posted on February 5, 2019 after the shutdown noted that a drill posing a shock hazard to consumers was \\u201cpreviously announced independently on January 10, 2019 by the firm due to the government furlough.\\u201d",
+                    "created_utc": 1573001075,
+                    "score": 1,
+                    "created": 1573019075
+                },
+                {
+                    "body": "Looks like it\\u2019s just wages for the most part. \n\nI wonder what the opportunity cost is. Project start dates being delayed, progress slowed due to people catching up with backlogs of work...",
+                    "created_utc": 1573000889,
+                    "score": 1,
+                    "created": 1573018889
+                },
+                {
+                    "body": "What actions do you think Trump would need to do for his base support to be cut down to 10%?",
+                    "created_utc": 1572999890,
+                    "score": 1,
+                    "created": 1573017890
+                },
+                {
+                    "body": "The ability for the Monarch to veto the legislature had been fully deprecated by the early 18th century (1707 was the last time it was exercised, as noted above) and the ability to unilaterally make departmental appointments and conduct foreign policy eroded significantly under Robert Walpole's Prime Ministership, i.e. Walpole, not the King, negotiated the 1731 treaty of Vienna.",
+                    "created_utc": 1572999054,
+                    "score": 1,
+                    "created": 1573017054
+                }
+            ]
+        }
+    ],
+    [
+        "walkaway",
+        {
+            "leaning": "right",
+            "posts": [
+                {
+                    "created_utc": 1572996136,
+                    "score": 1,
+                    "title": "Organizer of the Philadelphia Cleanup, Darius Mayfield, on Making Americ...",
+                    "url": "https://www.youtube.com/watch?v=phyCGosvzco&amp;feature=share",
+                    "created": 1573014136
+                },
+                {
+                    "created_utc": 1572978791,
+                    "score": 1,
+                    "title": "College Campus Meltdowns Over 'It's Ok to be White' Signs on Halloween",
+                    "url": "https://youtu.be/gM5QUYrN0KY",
+                    "created": 1572996791
+                },
+                {
+                    "created_utc": 1572970505,
+                    "score": 1,
+                    "title": "Three Criminal Illegal Aliens, Two Rape Victims and Too Many Excuses from a Maryland Sanctuary County | ImmigrationReform.com",
+                    "url": "https://www.immigrationreform.com/2019/08/21/sanctuary-policy-detainer-ice-immigrationreform-com/",
+                    "created": 1572988505
+                },
+                {
+                    "created_utc": 1572967110,
+                    "score": 1,
+                    "title": "In viral video, student exposes instructor's 'anti-white,' anti-academic' comments",
+                    "url": "https://www.campusreform.org/?ID=13946",
+                    "created": 1572985110
+                },
+                {
+                    "created_utc": 1572963202,
+                    "score": 1,
+                    "title": "Mass murder is a feature of communism, not a bug",
+                    "url": "https://www.libertynation.com/the-long-march-has-paid-off-millennials-love-socialism/",
+                    "created": 1572981202
+                },
+                {
+                    "created_utc": 1572961379,
+                    "score": 1,
+                    "title": "US citizens killed, kidnapped in cartel shootout in Mexico",
+                    "url": "https://www.foxnews.com/world/us-citizens-killed-kidnapped-in-cartel-shootout-outside-northern-mexican-mormon-community-family",
+                    "created": 1572979379
+                },
+                {
+                    "created_utc": 1572921622,
+                    "score": 1,
+                    "title": "Impeachment Is Already Losing Steam, New Polls Shows Bad News For Democrats",
+                    "url": "https://www.youtube.com/watch?v=yhkK7J_jqiM",
+                    "created": 1572939622
+                },
+                {
+                    "created_utc": 1572909503,
+                    "score": 186,
+                    "title": "Tom Arnold Evades Twitter Suspension Using Account in Name of His 6-Year-Old Son, Violent Threat Tweeted to 'Narcs' -- I bet the kids credit will suck when he turns 18...",
+                    "url": "https://www.thegatewaypundit.com/2019/11/tom-arnold-evades-twitter-suspension-using-account-in-name-of-his-6-year-old-son-violent-threat-tweeted-to-narcs/",
+                    "created": 1572927503
+                },
+                {
+                    "created_utc": 1572894924,
+                    "score": 41,
+                    "title": "Do I hear fiddling in the background?",
+                    "url": "https://i.redd.it/ttz9fk91ypw31.png",
+                    "created": 1572912924
+                },
+                {
+                    "created_utc": 1572872978,
+                    "score": 211,
+                    "title": "ACT III: Deep State Shadow Coup",
+                    "url": "https://i.redd.it/j8qt9l0b5ow31.png",
+                    "created": 1572890978
+                }
+            ],
+            "comments": [
+                {
+                    "body": "Mormonism. \n\n\nThey were Mormons. \n\n\nThere is a very large number American Mormons living in Mormon communities in Mexico.",
+                    "created_utc": 1572997993,
+                    "score": 1,
+                    "created": 1573015993
+                },
+                {
+                    "body": "They claim to.",
+                    "created_utc": 1572990901,
+                    "score": 1,
+                    "created": 1573008901
+                },
+                {
+                    "body": "Do they know Mitt Romney\\u2019s Dad?",
+                    "created_utc": 1572989858,
+                    "score": 1,
+                    "created": 1573007858
+                },
+                {
+                    "body": "One tribe! Borders are imaginary lines!",
+                    "created_utc": 1572989816,
+                    "score": 1,
+                    "created": 1573007816
+                },
+                {
+                    "body": "[removed]",
+                    "created_utc": 1572986543,
+                    "score": 1,
+                    "created": 1573004543
+                },
+                {
+                    "body": "This is sad. Years ago these people did a decent job standing up to the cartels. Unfortunately I don\\u2019t see us going to war with anyone South of our border anytime soon as the CIA makes a lot of it\\u2019s black budget money from drug trafficking. And where there is chaos it is easier to traffic drugs and people under the radar. All that aside, if we did invade Mexico based on this it wouldn\\u2019t matter unless we planned on invading most of Central and South America, as there is always another cartel or mafia in the neighboring country who are a part of the drug trade. And to the people who think there is \\u201ctoo little government\\u201d, it\\u2019s the opposite. There is too much government and too few well armed and trained citizen militias.",
+                    "created_utc": 1572984504,
+                    "score": 1,
+                    "created": 1573002504
+                },
+                {
+                    "body": "I believe they originally moved there in the 19th / early 20th cent. To avoid US laws about polygamy. I have some family that is Mormon and born/raised in Mex (though not latino by ancestry).",
+                    "created_utc": 1572981693,
+                    "score": 1,
+                    "created": 1572999693
+                },
+                {
+                    "body": "Cheap land, beautiful scenery, small government (too fucking small apparently)",
+                    "created_utc": 1572981402,
+                    "score": 1,
+                    "created": 1572999402
+                },
+                {
+                    "body": "Lmao leftist brigading incoming XD\n\nWhen I checked this, this was at 0 XD",
+                    "created_utc": 1572977586,
+                    "score": 1,
+                    "created": 1572995586
+                },
+                {
+                    "body": "This may not be a popular opinion and believe me, I understand that sentiment but, here it is. I've said for about 10 years now, we  (the USA) maybe should have invaded mexico a decade ago. Partly because of their complete refusal to mitigate the illegal immigration via our border with them (and their governments actual coaching and training on how to actually illegally cross the border) but also because of the cartels. They are responsible for huge amounts of drugs coming into our country and killing our citizens. They bribe the Mexican military and state police to run protection for them. The Mexican military has made incursions into the US many times and even shot at the US Border Patrol, even once shooting a Border Patrol chopper which had to make an emergency landing. \n\nTerrorism in the middle east is bad and threatens our national security but this is right on our southern border. It is an immediate and local threat to US national security. Mexico either cant or wont stomp these cartels out of existence but the might of the US Military sure as hell could.",
+                    "created_utc": 1572976572,
+                    "score": 1,
+                    "created": 1572994572
+                }
+            ]
+        }
+    ]
+]

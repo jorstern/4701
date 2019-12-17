@@ -7,7 +7,7 @@ RIGHT_LEANING_SUBS = [
     'conservative',
     'conservativelounge',
     'conservatives',
-    'conservatives_only',
+    'conservatives_only',  # outlier
     'cringeanarchy',
     'jordanpeterson',
     'louderwithcrowder',
@@ -36,7 +36,7 @@ LEFT_LEANING_SUBS = [
     'askaliberal',
     'bannedfromthe_donald',
     'beto2020',
-    'bluemidterm2018',
+    'bluemidterm2018',  # outlier
     'breadtube',
     'centerleftpolitics',
     'chapotraphouse',
