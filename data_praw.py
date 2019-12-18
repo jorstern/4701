@@ -51,7 +51,7 @@ def main():
     api = PushshiftAPI()
     start_epoch = int(dt.datetime(2017, 1, 1).timestamp())
     end_epoch = int(dt.datetime(2019, 10, 1).timestamp())
-    num = 10
+    num = 20
 
     subs = get_data(LEFT_LEANING_SUBS, 'left', num, api, start_epoch, end_epoch)
     with open('data_left.txt', 'w') as outfile:
@@ -65,7 +65,7 @@ def main():
     with open('data_right_test.txt', 'w') as outfile:
         json.dump(subs, outfile)
 
-    subs = get_data(LEFT_TEST_SUBS, 'right', num, api, start_epoch, end_epoch)
+    subs = get_data(LEFT_TEST_SUBS, 'left', num, api, start_epoch, end_epoch)
     with open('data_left_test.txt', 'w') as outfile:
         json.dump(subs, outfile)
 

@@ -54,9 +54,15 @@ def _spacy_tokenizer(data: List, remove_punct=True, remove_stopwords=True, lemma
 	]
 
 
-def _bag_of_words(data, ngram_range=(1, 2), tokenizer=_spacy_tokenizer) -> Tuple:
+def _bag_of_words(data, ngram_range=(1, 2), tokenizer=_spacy_tokenizer, is_training=True) -> Tuple:
 	# by default, CountVectorizer will convert tokens to lower case.
-	vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer)
+	if not is_training:
+		with open('vocabulary.pickle', 'rb') as file:
+			VOCABULARY = pickle.load(file)
+		vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer, vocabulary=VOCABULARY)
+	else:
+		vectorizer = CountVectorizer(ngram_range=ngram_range, tokenizer=tokenizer)
+
 	result = vectorizer.fit_transform(data)
 	return result, vectorizer.get_feature_names()
 
@@ -112,7 +118,7 @@ def _tf_idf(data: csr_matrix) -> csr_matrix:
 	return transformer.fit_transform(data)
 
 
-def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_entity=False) \
+def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_entity=False, is_training=True) \
 		-> Tuple[csr_matrix, List[int], List[str]]:
 	"""
 	Reads raw data in JSON form from file_paths and preprocesses it.
@@ -133,7 +139,7 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_
 	if named_entity:
 		data, feature_names = _bag_of_named_entity(data)
 	else:
-		data, feature_names = _bag_of_words(data)
+		data, feature_names = _bag_of_words(data, is_training=is_training)
 	if instance_type == 'subs':
 		data, labels = _group_by_subreddits(data, subreddits, labels, scores)
 	data = _tf_idf(data)
@@ -153,8 +159,11 @@ def classify_as_feature(data, labels):
 
 def _store_preprocessed_data(
 	data: csr_matrix, labels: List[int], feature_names: List[str],
-	out_file_path: str = DEFAULT_OUT_FILE_PATH, training=True):
-	if training:
+	out_file_path: str = DEFAULT_OUT_FILE_PATH, is_training=True):
+	if is_training:
+		with open('vocabulary.pickle', 'wb') as out_file:
+			pickle.dump(feature_names, out_file)
+
 		lr_results = classify_as_feature(data, labels)
 		data = csr_matrix(hstack([data, lr_results]))
 
@@ -167,11 +176,12 @@ def _store_preprocessed_data(
 		}
 		pickle.dump(stored_data, out_file)
 
-
 def main():
 	# _store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs', named_entity=True))
 	_store_preprocessed_data(*load_data(DEFAULT_IN_FILE_PATHS, 'subs'))
 
-
 def test(test_file_paths, test_out_path):
-	_store_preprocessed_data(*load_data(test_file_paths, 'subs'), out_file_path=test_out_path, training=False)
+	_store_preprocessed_data(*load_data(test_file_paths, 'subs', is_training=False), out_file_path=test_out_path, is_training=False)
+
+	main()
+

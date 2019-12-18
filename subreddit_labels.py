@@ -31,16 +31,16 @@ LEFT_LEANING_SUBS = [
     'ani_communism',
     'antifascistsofreddit',
     'antifastonetoss',
-    'antiwork',
-    'askaliberal',
-    'bannedfromthe_donald',
-    'beto2020',
-    'breadtube',
-    'centerleftpolitics',
-    'chapotraphouse',
-    'chapotraphouse2',
-    'chomsky',
-    'circlebroke',
+    'blacklivesmatter',
+    'communism',
+    'democrats',
+    'esist',
+    'femmethoughts',
+    'fuckthealtright',
+    'impeach_trump',
+    'labour',
+    'lgbt',
+    'sandersforpresident'
 ]
 
 RIGHT_TEST_SUBS = [
@@ -51,22 +51,22 @@ RIGHT_TEST_SUBS = [
     'headlinecorrections',
     'progun',
     'prolife',
-    'socialjusticeinaction',
+    'stormfront',
     'tumblrinaction',
     'uncensorednews'
     'whiteknighting',
+    'cornell',
 ]
 
 LEFT_TEST_SUBS = [
-    'blacklivesmatter',
-    'communism',
-    'democrats',
-    'esist',
-    'femmethoughts',
-    'fuckthealtright',
+    'greenparty',
     'impeach_trump',
-    'labour',
-    'lgbt',
-    'politics',
-    'sandersforpresident',
-]
+    'ironfrontusa',
+    'iww',
+    'keep_track',
+    'latestagecapitalism',
+    'leftwithoutedge',
+    'liberal',
+    'libertarianleft',
+    'libertariansocialism'
+    ]
