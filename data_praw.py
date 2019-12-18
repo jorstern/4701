@@ -68,6 +68,3 @@ def main():
     subs = get_data(LEFT_TEST_SUBS, 'left', num, api, start_epoch, end_epoch)
     with open('data_left_test.txt', 'w') as outfile:
         json.dump(subs, outfile)
-
-
-main()

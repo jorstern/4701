@@ -54,8 +54,7 @@ RIGHT_TEST_SUBS = [
     'stormfront',
     'tumblrinaction',
     'uncensorednews'
-    'whiteknighting',
-    'cornell',
+    'whiteknighting'
 ]
 
 LEFT_TEST_SUBS = [
@@ -69,4 +68,4 @@ LEFT_TEST_SUBS = [
     'liberal',
     'libertarianleft',
     'libertariansocialism'
-    ]
+]

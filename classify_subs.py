@@ -15,7 +15,7 @@ def classify(test_data, training_data, training_labels):
     classifier = LogisticRegression(solver='liblinear', max_iter=1000)
     classifier.fit(training_data, training_labels)
     predictions = classifier.predict(test_data)
-    print(classifier.predict_proba('test_data'))
+    #print(classifier.predict_proba(test_data))
     return predictions
 
 def remove_extra_features(training_data):
@@ -32,6 +32,7 @@ def remove_extra_features(training_data):
 
 def main():
     data_praw.main()
+    print("Downloaded data!")
     data_processing.main()
     data_processing.test(TEST_IN_PATHS, TEST_OUT_PATH)
     with open('data_preprocessed.pickle', 'rb') as data_file:
