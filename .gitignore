@@ -4,8 +4,6 @@
 # Outputs
 /data*.txt
 /data*.pickle
-!data_left.txt
-!data_right.txt
 
 /.venv/
 __pycache__/
