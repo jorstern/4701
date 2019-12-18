@@ -53,7 +53,7 @@ RIGHT_TEST_SUBS = [
     'prolife',
     'stormfront',
     'tumblrinaction',
-    'uncensorednews'
+    'uncensorednews',
     'whiteknighting'
 ]
 
