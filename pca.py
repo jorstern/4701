@@ -39,7 +39,7 @@ def _main():
     data = data_dict['data'][:, feature_indices]
 
     # PCA before feature selection
-    plot_pca(data_dict['data'], data_dict['labels'])
+    # plot_pca(data_dict['data'], data_dict['labels'])
     # PCA after feature selection
     plot_pca(data, data_dict['labels'])
 
