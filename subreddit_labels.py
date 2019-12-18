@@ -45,27 +45,28 @@ LEFT_LEANING_SUBS = [
 
 RIGHT_TEST_SUBS = [
     'askthe_donald',
+    'breitbartnews',
     'capitalism',
-    'dankememes',
-    'islamunveiled',
-    'headlinecorrections',
+    'draintheswamp',
+    'latestagesocialism',
     'progun',
     'prolife',
-    'stormfront',
+    'socialjusticeinaction',
     'tumblrinaction',
-    'uncensorednews'
-    'whiteknighting'
+    'uncensorednews',
+    'whiteknighting',
 ]
 
 LEFT_TEST_SUBS = [
-    'greenparty',
+    'elizabethwarren',
     'impeach_trump',
     'ironfrontusa',
     'iww',
-    'keep_track',
+    'selfawarewolves',
     'latestagecapitalism',
     'leftwithoutedge',
     'liberal',
     'libertarianleft',
-    'libertariansocialism'
+    'libertariansocialism',
+    'toiletpaperusa'
 ]

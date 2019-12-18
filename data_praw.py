@@ -49,9 +49,9 @@ def get_data(
 
 def main():
     api = PushshiftAPI()
-    start_epoch = int(dt.datetime(2017, 1, 1).timestamp())
+    start_epoch = int(dt.datetime(2018, 1, 1).timestamp())
     end_epoch = int(dt.datetime(2019, 10, 1).timestamp())
-    num = 20
+    num = 30
 
     subs = get_data(LEFT_LEANING_SUBS, 'left', num, api, start_epoch, end_epoch)
     with open('data_left.txt', 'w') as outfile:

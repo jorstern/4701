@@ -15,7 +15,7 @@ def classify(test_data, training_data, training_labels):
     classifier = LogisticRegression(solver='liblinear', max_iter=1000)
     classifier.fit(training_data, training_labels)
     predictions = classifier.predict(test_data)
-    #print(classifier.predict_proba(test_data))
+    print(classifier.predict_proba(test_data))
     return predictions
 
 def remove_extra_features(training_data):
