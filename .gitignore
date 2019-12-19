@@ -4,6 +4,8 @@
 # Outputs
 /data*.txt
 /data*.pickle
+/*.pickle
+*.txt
 
 /.venv/
 __pycache__/

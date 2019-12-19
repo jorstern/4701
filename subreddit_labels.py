@@ -7,7 +7,6 @@ RIGHT_LEANING_SUBS = [
     'conservative',
     'conservativelounge',
     'conservatives',
-    'conservatives_only',
     'cringeanarchy',
     'jordanpeterson',
     'louderwithcrowder',
@@ -32,15 +31,41 @@ LEFT_LEANING_SUBS = [
     'ani_communism',
     'antifascistsofreddit',
     'antifastonetoss',
-    'antiwork',
-    'askaliberal',
-    'bannedfromthe_donald',
-    'beto2020',
-    'bluemidterm2018',
-    'breadtube',
-    'centerleftpolitics',
-    'chapotraphouse',
-    'chapotraphouse2',
-    'chomsky',
-    'circlebroke',
+    'blacklivesmatter',
+    'communism',
+    'democrats',
+    'esist',
+    'femmethoughts',
+    'fuckthealtright',
+    'impeach_trump',
+    'labour',
+    'lgbt',
+    'sandersforpresident'
+]
+
+RIGHT_TEST_SUBS = [
+    'askthe_donald',
+    'capitalism',
+    'dankememes',
+    'islamunveiled',
+    'headlinecorrections',
+    'progun',
+    'prolife',
+    'stormfront',
+    'tumblrinaction',
+    'uncensorednews',
+    'whiteknighting'
+]
+
+LEFT_TEST_SUBS = [
+    'greenparty',
+    'impeach_trump',
+    'ironfrontusa',
+    'iww',
+    'keep_track',
+    'latestagecapitalism',
+    'leftwithoutedge',
+    'liberal',
+    'libertarianleft',
+    'libertariansocialism'
 ]
