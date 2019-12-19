@@ -55,7 +55,7 @@ RIGHT_TEST_SUBS = [
     'socialjusticeinaction',
     'tumblrinaction',
     'uncensorednews',
-    'whiteknighting',
+    'whiteknighting'
 ]
 
 LEFT_TEST_SUBS = [
