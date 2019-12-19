@@ -12,11 +12,14 @@ Run the scripts in this order:
 
 ### Prerequisites
 
-**TODO**
-
 - `spacy`
 - `sklearn`
-- ...
+- `scipy`
+- `numpy`
+- `psaw`
+- `pandas`
+- `requests`
+- `matplotlib`
 
 Download the English Spacy model with
 ```sh
