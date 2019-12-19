@@ -34,6 +34,8 @@ def find_most_useful_feature_indices(preprocessed_data: csr_matrix, labels: List
 
 
 def _print_features(feature_indices: np.ndarray, coefficients: np.ndarray, feature_names: List[str]):
+    feature_names += ['P(left-leaning | sub)', 'P(right-leaning | sub)']
+
     print('Coefficient \t\t Leaning \t Feature')
     for i in feature_indices:
         leaning = "Left" if coefficients[i] < 0 else "Right"
@@ -46,7 +48,7 @@ def _test():
         data_dict = pickle.load(data_file)
 
     coefficients = _calculate_feature_coefficients(data_dict['data'], data_dict['labels'])
-    feature_indices = _find_largest_coefficient_indices(coefficients, 50)
+    feature_indices = _find_largest_coefficient_indices(coefficients, 200)
     _print_features(feature_indices, coefficients, data_dict['feature_names'])
 
 
