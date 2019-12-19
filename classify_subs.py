@@ -14,8 +14,19 @@ TEST_OUT_PATH = 'test_preprocessed.pickle'
 def classify(test_data, training_data, training_labels):
     classifier = LogisticRegression(solver='liblinear', max_iter=1000)
     classifier.fit(training_data, training_labels)
+    print("Trained model!")
     predictions = classifier.predict(test_data)
-    print(classifier.predict_proba(test_data))
+    pred_nums = classifier.predict_proba(test_data)
+    pred_results = []
+    for r in pred_nums:
+        if r[0] > r[1]:
+            pred_results.append(str(r[0]/r[1]) + "x more likely to be left")
+        else:
+            pred_results.append(str(r[1]/r[0]) + "x more likely to be right")
+    labels = subreddit_labels.LEFT_TEST_SUBS + subreddit_labels.RIGHT_TEST_SUBS
+    res = zip(labels, pred_results)
+    for r in res:
+        print(r)
     return predictions
 
 def remove_extra_features(training_data):
@@ -34,7 +45,9 @@ def main():
     data_praw.main()
     print("Downloaded data!")
     data_processing.main()
+    print("Extracted features from training!")
     data_processing.test(TEST_IN_PATHS, TEST_OUT_PATH)
+    print("Extracted features from test!")
     with open('data_preprocessed.pickle', 'rb') as data_file:
         training_data = pickle.load(data_file)
     with open('test_preprocessed.pickle', 'rb') as data_file:

@@ -44,6 +44,7 @@ LEFT_LEANING_SUBS = [
 ]
 
 RIGHT_TEST_SUBS = [
+    'the_donald',
     'askthe_donald',
     'breitbartnews',
     'capitalism',
@@ -58,7 +59,7 @@ RIGHT_TEST_SUBS = [
 ]
 
 LEFT_TEST_SUBS = [
-    'elizabethwarren',
+    'sandersforpresident',
     'impeach_trump',
     'ironfrontusa',
     'iww',

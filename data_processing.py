@@ -143,7 +143,7 @@ def load_data(file_paths: List[str] = None, instance_type: str = 'posts', named_
 	if instance_type == 'subs':
 		data, labels = _group_by_subreddits(data, subreddits, labels, scores)
 	data = _tf_idf(data)
-	print(f"Preprocessed data has shape {data.get_shape()}")
+	#print(f"Preprocessed data has shape {data.get_shape()}")
 
 	return data, labels, feature_names
 
